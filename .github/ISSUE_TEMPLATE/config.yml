@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Suggest a new tool
+    url: https://github.com/theelderemo/ai-audio-tools/blob/main/CONTRIBUTING.md
+    about: Tool suggestions are handled as Pull Requests, not issues. Read the contributing guide, then open a PR adding the tool to README.md. The PR template walks you through the details (name, URL, category, pricing, why it belongs).

@@ -2,6 +2,8 @@
 
 Thanks for helping make this list better! Here's how to do it right.
 
+Tool suggestions are handled as **Pull Requests**. There's no issue based suggestion flow. If you want a tool on the list, add it following the steps below.
+
 ## Adding a Tool
 
 1. **Fork** this repo and create a branch: `git checkout -b add-toolname`
@@ -25,7 +27,7 @@ Thanks for helping make this list better! Here's how to do it right.
 
 ## Categories
 
-Pick the most fitting existing category. If you believe a new category is warranted, open an **issue first** to discuss it before adding it.
+Pick the most fitting existing category. If you believe a new category is warranted, propose it in your **PR description** and explain why the existing categories don't fit — it'll be discussed on the PR before merging.
 
 ## Badge Reference
 

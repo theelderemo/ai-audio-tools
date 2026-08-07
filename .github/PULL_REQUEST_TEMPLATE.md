@@ -19,6 +19,7 @@
 
 - **Name:**
 - **URL:**
+- **What does it do? (1–2 sentences):**
 - **Category:**
-- **Pricing model:** free / freemium / paid / enterprise
+- **Pricing model:** free / freemium / paid / enterprise / open-source
 - **Why it belongs here:**
