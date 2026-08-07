@@ -141,6 +141,7 @@
 
 ## Plugins & Sample Tools
 
+- [DD Shooter](https://www.sonolisk.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![vst](https://img.shields.io/badge/VST-1a3d3d?style=flat-square) - AI-powered drum sample generator using text-conditioned diffusion models to create realistic isolated drum hits with control over drum type, genre, and timbral characteristics.
 - [Samplab](https://samplab.com/) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![vst](https://img.shields.io/badge/VST-1a3d3d?style=flat-square) - AI VST plugin for granular audio sample editing, enabling note-level pitch manipulation of polyphonic audio with automatic chord progression detection.
 - [Slooply](https://slooply.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI-powered sample discovery platform with similarity search, mood/key/BPM filtering, MIDI export, and direct drag-and-drop DAW integration.
 - [Atlas](https://atlasaudio.com/) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - AI sample library organizer with auto-tagging, similar-sound search, and a smart drum map interface for large sample collections.
