@@ -20,7 +20,7 @@ jobs:
           args: --config .github/lychee.toml --no-progress README.md site/index.html
           fail: false
       - if: steps.lychee.outputs.exit_code != 0
-        uses: peter-evans/create-issue-from-file@v5
+        uses: peter-evans/create-issue-from-file@v6
         with:
           title: Dead links found by the weekly link check
           content-filepath: ./lychee/out.md
