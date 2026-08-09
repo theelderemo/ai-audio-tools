@@ -24,6 +24,7 @@ Tool suggestions are handled as **Pull Requests**. There's no issue based sugges
 - If the tool is acquired or defunct, add the `![acquired]` badge and note who acquired it
 - Descriptions must be **your own words** — do not copy from the tool's own marketing copy verbatim
 - No referral links, no affiliate links
+- Only edit `README.md` — never `site/`. The website's `site/data.js` is regenerated from this README by CI after your PR merges
 
 ## Categories
 

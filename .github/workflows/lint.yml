@@ -1,0 +1,22 @@
+name: Lint list
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - site/**
+      - scripts/**
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check entry format and internal links
+        run: node scripts/lint-readme.mjs
+      - name: Check README parses for site generation
+        run: node scripts/generate-data.mjs --check

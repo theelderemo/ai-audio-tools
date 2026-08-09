@@ -5,12 +5,14 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Stars](https://img.shields.io/github/stars/theelderemo/awesome-ai-audio?style=flat&logo=github&color=gold&label=Stars)](https://github.com/theelderemo/awesome-ai-audio/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/theelderemo/awesome-ai-audio?style=flat&color=blue)](https://github.com/theelderemo/awesome-ai-audio/commits/main)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/theelderemo/awesome-ai-audio/pulls)
-![Tools](https://img.shields.io/badge/tools%20listed-100%2B-blueviolet?style=flat)
+[![Stars](https://img.shields.io/github/stars/theelderemo/ai-audio-tools?style=flat&logo=github&color=gold&label=Stars)](https://github.com/theelderemo/ai-audio-tools/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/theelderemo/ai-audio-tools?style=flat&color=blue)](https://github.com/theelderemo/ai-audio-tools/commits/main)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/theelderemo/ai-audio-tools/pulls)
+![Tools](https://img.shields.io/badge/tools%20listed-173-blueviolet?style=flat)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=The+go-to+list+for+AI+audio+tools.;100%2B+tools+across+16+categories.;Open+to+contributions.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=The+go-to+list+for+AI+audio+tools.;173+tools+across+15+categories.;Open+to+contributions.)](https://github.com/DenverCoder1/readme-typing-svg)
+
+**[Browse the interactive index ↗](https://theelderemo.github.io/ai-audio-tools/)**
 
 </div>
 
@@ -183,7 +185,7 @@
 
 [↑ Back to top](#quick-navigation)
   
-# Radio / Podcast
+## Radio & Podcast
 
 - [faidr](https://faidr.com) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) - Your favorite radio, interruption free.
 - [fathom](https://hello.fathom.fm) - The search engine for podcasts.
@@ -197,7 +199,7 @@
 
 [↑ Back to top](#quick-navigation)
 
-# Hearing
+## Hearing
 
 - [Whisper.ai](https://whisper.ai) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![hardware](https://img.shields.io/badge/hardware-2e2e2e?style=flat-square) - Smarter than your average hearing aid.
 - [Eargo](https://www.eargo.com) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![hardware](https://img.shields.io/badge/hardware-2e2e2e?style=flat-square) - A Revolutionary New Hearing Aid.
@@ -205,7 +207,7 @@
 
 [↑ Back to top](#quick-navigation)
 
-# Sound detection
+## Sound Detection
 
 - [Audio Analytic](https://www.audioanalytic.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Creating exceptional human experiences through a greater sense of hearing.
 - [SoundEye](https://sound-eye.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - Advanced sound recognition solutions capable of classifying sounds such as screaming, gunshot, coughing, and crying.
@@ -219,6 +221,27 @@
 - [Securaxis](https://www.securaxis.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - We turn sounds into information.
 - [Deeply](https://deeplyinc.com) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - We add meaning to every sound in the world using advanced deep learning technology for sound event detection and context recognition.
 - [Reef Pulse](https://reef-pulse.com) - Coral reef monitoring using bioacoustics and AI: sound event detection (boats, divers, waves, marine mammals, fishes, invertebrates) for impactful management of marine ecosystems.
+
+[↑ Back to top](#quick-navigation)
+
+## Enhancement & Manipulation
+
+- [Meaning](https://www.meaning.team/) - Streaming real-time voice and accent conversion.
+- [VideoDubber](https://videodubber.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Translating video/audio through voice cloning and accent conversion in 150+ languages.
+- [krisp](https://krisp.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - An AI-powered software solution for effective online meetings.
+- [voicemod](https://www.voicemod.net/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Free real-time voice changer.
+- [audo](https://audo.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Noise cancellation products for creators, developers, and virtual meetings.
+- [AudioTelligence](https://audiotelligence.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Software that transforms the clarity and intelligibility of speech in challenging acoustic environments.
+- [immersitech.io](https://immersitech.io/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - We don't make audio. We make audio better.
+- [utterly](https://www.utterly.app/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Noise removal for meetings and audio.
+- [claerity.ai](https://www.claerity.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Cutting-edge AI to eliminate all background noise on video conference calls.
+- [Neural Love](https://neural.love/audio) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Set of AI-powered tools to enhance audio quality.
+- [HeardThat](https://www.heardthatapp.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - A smartphone app that turns your smartphone into a sophisticated speech-enhancement device.
+- [Chatable](https://chatableapps.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - A smartphone app that removes disruptive background noise.
+- [BdSound](https://www.bdsound.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - Intelligent Audio Solution for audio and voice-enabled products.
+- [echosonic](https://www.echosonic.ca/) - Revolutionizing microphone by bringing Machine Learning capabilities into it.
+- [Insoundz](https://insoundz.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Generative AI Audio Enhancement.
+- [Xound](https://xound.io/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI-powered audio enhancements in just one click. Grammarly for audio.
 
 [↑ Back to top](#quick-navigation)
 
@@ -273,25 +296,6 @@
 - [morpheme.ai](https://www.morpheme.ai) - Actor-First, Digital-Double Voices powered by the latest AI technology, ensuring they are efficient, authentic, and ethical.
 
 [↑ Back to top](#quick-navigation)
-
-## Enhancement & Manipulation
-
-- [Meaning](https://www.meaning.team/) - Streaming real-time voice and accent conversion.
-- [VideoDubber](https://videodubber.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Translating video/audio through voice cloning and accent conversion in 150+ languages.
-- [krisp](https://krisp.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - An AI-powered software solution for effective online meetings.
-- [voicemod](https://www.voicemod.net/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Free real-time voice changer.
-- [audo](https://audo.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Noise cancellation products for creators, developers, and virtual meetings.
-- [AudioTelligence](https://audiotelligence.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Software that transforms the clarity and intelligibility of speech in challenging acoustic environments.
-- [immersitech.io](https://immersitech.io/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - We don't make audio. We make audio better.
-- [utterly](https://www.utterly.app/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Noise removal for meetings and audio.
-- [claerity.ai](https://www.claerity.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Cutting-edge AI to eliminate all background noise on video conference calls.
-- [Neural Love](https://neural.love/audio) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Set of AI-powered tools to enhance audio quality.
-- [HeardThat](https://www.heardthatapp.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - A smartphone app that turns your smartphone into a sophisticated speech-enhancement device.
-- [Chatable](https://chatableapps.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - A smartphone app that removes disruptive background noise.
-- [BdSound](https://www.bdsound.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - Intelligent Audio Solution for audio and voice-enabled products.
-- [echosonic](https://www.echosonic.ca/) - Revolutionizing microphone by bringing Machine Learning capabilities into it.
-- [Insoundz](https://insoundz.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Generative AI Audio Enhancement.
-- [Xound](https://xound.io/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI-powered audio enhancements in just one click. Grammarly for audio.
 
 # Development
 ## Tools & SDKs

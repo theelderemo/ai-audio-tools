@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="ink">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Audio Tools: an open index</title>
+<meta name="description" content="An open, community-kept index of AI audio tools — song generators, stem splitters, voice clones, transcription engines.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400;1,6..72,500&family=Schibsted+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <span class="wordmark">AI Audio Tools</span>
+    <nav class="topnav">
+      <button id="theme-toggle" class="pill" title="Toggle light / dark">Light</button>
+      <button id="random-btn" class="quiet-btn">Surprise me</button>
+      <a href="https://github.com/theelderemo/ai-audio-tools" target="_blank" rel="noreferrer">GitHub ↗</a>
+      <a href="https://github.com/theelderemo/ai-audio-tools/blob/main/CONTRIBUTING.md" target="_blank" rel="noreferrer">Add a tool ↗</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>A quiet index of <em>AI audio tools</em>.</h1>
+    <p><span id="stat-tools">173</span> tools across <span id="stat-cats">15</span> categories: song generators, stem splitters, voice clones, transcription engines; additions welcome.</p>
+  </section>
+
+  <section class="console">
+    <div class="searchbar">
+      <input id="search" type="text" placeholder="Search the index…" autocomplete="off">
+      <span id="shown-label" class="shown">173 listed</span>
+    </div>
+    <div id="filters" class="filters"></div>
+    <div class="paths">
+      <span class="paths-label">I want to</span>
+      <span id="paths"></span>
+    </div>
+  </section>
+
+  <nav class="contents">
+    <span class="contents-label">Contents</span>
+    <span id="contents"></span>
+  </nav>
+
+  <div id="empty" class="empty" hidden>
+    <div class="empty-msg">Nothing matches.</div>
+    <button id="reset-btn" class="link-btn">Reset the index</button>
+  </div>
+
+  <main id="sections"></main>
+
+  <footer class="foot">
+    <div class="foot-cta">Missing something? <em>Fork the repo, add a line, open a PR.</em></div>
+    <div class="foot-links">
+      <a class="accent-link" href="https://github.com/theelderemo/ai-audio-tools" target="_blank" rel="noreferrer">Open the repository ↗</a>
+      <a href="https://github.com/theelderemo/ai-audio-tools/blob/main/CONTRIBUTING.md" target="_blank" rel="noreferrer">Contributing guide ↗</a>
+    </div>
+    <div class="foot-meta">
+      <span>MIT license · data from theelderemo/ai-audio-tools</span>
+      <span id="foot-stats">173 tools · 15 categories</span>
+    </div>
+  </footer>
+</div>
+<script type="module" src="app.js"></script>
+</body>
+</html>
