@@ -1,4 +1,4 @@
-import { CATS, PATHS, BADGES } from './data.js';
+import { CATS, PATHS, BADGES, REMOVED } from './data.js';
 
 const state = { query: '', active: new Set() };
 const $ = s => document.querySelector(s);
@@ -108,5 +108,18 @@ $('#random-btn').addEventListener('click', () => {
   const el = document.getElementById(id);
   el.classList.remove('flash'); void el.offsetWidth; el.classList.add('flash');
 });
+
+$('#removed').innerHTML = REMOVED.length ? `
+  <div class="cat-head">
+    <h2>Removed</h2>
+    <span class="cat-count">${REMOVED.length} ${REMOVED.length === 1 ? 'entry' : 'entries'}</span>
+  </div>
+  <p class="removed-note">Tools that were once listed but have since been taken out of the index, kept here for the record. If you own one of these and the issue is fixed, <a class="accent-link" href="https://github.com/theelderemo/ai-audio-tools/blob/main/CONTRIBUTING.md" target="_blank" rel="noreferrer">open a PR</a> to relist it.</p>
+  <div class="rows">${REMOVED.map(t => `
+    <div class="row removed-row">
+      <span class="row-name">${esc(t.n)}</span>
+      <span class="row-badges"><span class="badge">${esc(t.c)}</span></span>
+      <span class="row-desc">${esc(t.r)} <span class="note">${esc(t.u)}</span></span>
+    </div>`).join('')}</div>` : '';
 
 render();

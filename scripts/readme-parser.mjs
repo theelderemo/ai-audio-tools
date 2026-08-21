@@ -13,6 +13,8 @@ export const BADGE_CODES = {
 const HEADING_RE = /^(#{1,6}) (.+?)\s*$/;
 const ENTRY_RE = /^- \[([^\]]+)\]\(([^)\s]+)\)((?: !\[[^\]]+\]\([^)\s]+\))*)(?: _\(([^)]+)\)_)? - (.+)$/;
 const BADGE_ALT_RE = /!\[([^\]]+)\]/g;
+const REMOVED_RE = /^- \*\*(.+?)\*\* `([^`\s]+)` _\((.+?)\)_ - (.+)$/;
+export const REMOVED_TITLE = "Removed";
 
 export function githubSlug(title) {
   return title
@@ -24,6 +26,7 @@ export function githubSlug(title) {
 export function parseReadme(text) {
   const lines = text.split("\n");
   const sections = [];
+  const removed = [];
   const errors = [];
   let current = null;
 
@@ -33,6 +36,20 @@ export function parseReadme(text) {
     if (heading) {
       current = { level: heading[1].length, title: heading[2], line: lineNo, entries: [] };
       sections.push(current);
+      return;
+    }
+    if (current && current.title === REMOVED_TITLE) {
+      if (!raw.startsWith("- ")) return;
+      const gone = raw.match(REMOVED_RE);
+      if (!gone) {
+        errors.push({ line: lineNo, message: "removed entry does not match `- **Name** `url` _(Category)_ - Reason.`" });
+        return;
+      }
+      const [, name, url, category, reason] = gone;
+      if (!/^https?:\/\//.test(url)) {
+        errors.push({ line: lineNo, message: `URL must start with http:// or https:// — got \`${url}\`` });
+      }
+      removed.push({ n: name, u: url, c: category, r: reason, line: lineNo });
       return;
     }
     if (!raw.startsWith("- [")) return;
@@ -75,7 +92,7 @@ export function parseReadme(text) {
     categories.push({ name, title: section.title, level: section.level, line: section.line, tools: section.entries });
   });
 
-  return { sections, categories, errors };
+  return { sections, categories, removed, errors };
 }
 
 export function slugifyId(name) {

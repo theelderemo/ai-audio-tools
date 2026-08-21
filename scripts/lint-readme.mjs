@@ -6,7 +6,7 @@ import { parseReadme, githubSlug } from "./readme-parser.mjs";
 const root = fileURLToPath(new URL("..", import.meta.url));
 const readme = readFileSync(join(root, "README.md"), "utf-8");
 
-const { sections, categories, errors } = parseReadme(readme);
+const { sections, categories, removed, errors } = parseReadme(readme);
 const problems = errors.map(e => ({ line: e.line, message: e.message }));
 
 for (const cat of categories) {
@@ -21,6 +21,18 @@ for (const cat of categories) {
     } else {
       seen.set(key, tool.line);
     }
+  }
+}
+
+const listed = new Map();
+for (const cat of categories) for (const tool of cat.tools) listed.set(tool.u.toLowerCase().replace(/\/+$/, ""), tool.line);
+for (const gone of removed) {
+  if (!/[.!?]$/.test(gone.r)) {
+    problems.push({ line: gone.line, message: `removal reason for "${gone.n}" should end with a period` });
+  }
+  const key = gone.u.toLowerCase().replace(/\/+$/, "");
+  if (listed.has(key)) {
+    problems.push({ line: gone.line, message: `"${gone.n}" is in Removed but ${gone.u} is still listed at line ${listed.get(key)}` });
   }
 }
 
@@ -49,4 +61,4 @@ if (problems.length > 0) {
 }
 
 const total = categories.reduce((n, c) => n + c.tools.length, 0);
-console.log(`OK — ${total} tools in ${categories.length} categories, all entries well-formed, all internal links resolve`);
+console.log(`OK — ${total} tools in ${categories.length} categories, ${removed.length} removed, all entries well-formed, all internal links resolve`);

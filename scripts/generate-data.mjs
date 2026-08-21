@@ -13,7 +13,7 @@ const readme = readFileSync(README, "utf-8");
 const dataJs = readFileSync(DATA, "utf-8");
 const indexHtml = readFileSync(INDEX, "utf-8");
 
-const { categories, errors } = parseReadme(readme);
+const { categories, removed, errors } = parseReadme(readme);
 if (errors.length > 0) {
   for (const e of errors) console.error(`README.md:${e.line} ${e.message}`);
   process.exit(1);
@@ -59,7 +59,8 @@ const emitTool = t => {
   return `{ ${parts.join(", ")} }`;
 };
 const emitCat = c => `{ id: "${c.id}", name: "${esc(c.name)}", tools: [\n${c.tools.map(emitTool).join(",\n")}\n]}`;
-const newDataJs = `${prefix}export const CATS = [\n${categories.map(emitCat).join(",\n")}\n];\n`;
+const emitRemoved = t => `{ n: "${esc(t.n)}", u: "${esc(t.u)}", c: "${esc(t.c)}", r: "${esc(t.r)}" }`;
+const newDataJs = `${prefix}export const CATS = [\n${categories.map(emitCat).join(",\n")}\n];\n\nexport const REMOVED = [\n${removed.map(emitRemoved).join(",\n")}\n];\n`;
 
 const total = categories.reduce((n, c) => n + c.tools.length, 0);
 const catCount = categories.length;

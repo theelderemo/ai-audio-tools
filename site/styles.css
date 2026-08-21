@@ -123,6 +123,14 @@ button { font-family: 'Schibsted Grotesk', sans-serif; }
 .row.flash { animation: fadeflash 2.2s ease-out; }
 @keyframes fadeflash { 0% { background: rgba(164,83,56,0.16); } 100% { background: transparent; } }
 
+.removed { padding-top: clamp(64px, 9vw, 100px); border-top: 1px solid var(--line); margin-top: clamp(40px, 6vw, 64px); }
+.removed .cat-head h2 { color: var(--mut); }
+.removed-note { font-size: 13px; line-height: 1.7; color: var(--mut); max-width: 62ch; margin: 0 0 18px; text-wrap: pretty; }
+.removed-row { opacity: 0.7; cursor: default; }
+.removed-row:hover { background: transparent; }
+.removed-row .row-name { text-decoration: line-through; text-decoration-color: var(--mut); }
+.removed-row .note { word-break: break-all; }
+
 .foot { padding: clamp(56px, 8vw, 90px) 0 60px; }
 .foot-cta {
   font-family: 'Newsreader', serif; font-weight: 400;

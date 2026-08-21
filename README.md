@@ -5,12 +5,11 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Stars](https://img.shields.io/github/stars/theelderemo/ai-audio-tools?style=flat&logo=github&color=gold&label=Stars)](https://github.com/theelderemo/ai-audio-tools/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/theelderemo/ai-audio-tools?style=flat&color=blue)](https://github.com/theelderemo/ai-audio-tools/commits/main)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/theelderemo/ai-audio-tools/pulls)
-![Tools](https://img.shields.io/badge/tools%20listed-173-blueviolet?style=flat)
+![Tools](https://img.shields.io/badge/tools%20listed-153-blueviolet?style=flat)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=The+go-to+list+for+AI+audio+tools.;173+tools+across+15+categories.;Open+to+contributions.)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=The+go-to+list+for+AI+audio+tools.;153+tools+across+15+categories.;Open+to+contributions.)](https://github.com/DenverCoder1/readme-typing-svg)
 
 **[Browse the interactive index ↗](https://theelderemo.github.io/ai-audio-tools/)**
 
@@ -62,16 +61,13 @@
 - [CassetteAI](https://cassetteAI.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI powered music production platform: make lyrics, beats & vocals with AI then mix & publish straight from Cassette.
 - [AIVA](https://www.aiva.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - The Artificial Intelligence composing emotional soundtrack music.
 - [beatoven.ai](https://www.beatoven.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - A simplified music creation tool that helps you create music for your videos and podcasts.
-- [Infinite Album](https://www.infinitealbum.io) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Adaptive AI music for gamers who livestream.
 - [Epidemic Sound](https://www.epidemicsound.com) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - High quality music and sound effects for all your content, all rights included.
 - [Wonder](https://www.wonder.inc) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Dynascore: The world's first Dynamic Music Engine.
 - [Amper](https://www.ampermusic.com/) ![acquired](https://img.shields.io/badge/acquired-1c1c1c?style=flat-square) _(Acquired by Shutterstock)_ - AI Music Composition Tools for Content Creators.
 - [AudioStack](https://www.audiostack.ai) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - AI-first platform for producing audio at scale.
-- [mayk.it](https://www.mayk.it/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Your virtual music studio.
 - [boomy](https://boomy.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Make instant music, share it with the world.
 - [enote](https://enote.com) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Intelligent Sheet Music.
 - [Qosmo](https://qosmo.jp/en/) - Qosmo is a group of artists, researchers, designers, and programmers.
-- [AI Music](http://www.aimusic.co.uk/) ![acquired](https://img.shields.io/badge/acquired-1c1c1c?style=flat-square) _(Acquired by Apple)_ - Our music helps brands enable deeper connections with their audiences.
 - [Splash HQ](https://www.splashcorporate.com/) - The next generation of music producers.
 - [musico](https://www.musi-co.com/) - AI-driven software engine that generates music. It can react to gesture, movement, code or other sound.
 - [Yousician](https://yousician.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - The largest music educator on the planet.
@@ -93,7 +89,6 @@
 - [Soundful](https://soundful.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI platform for generating royalty-free, high-quality soundtracks customizable by mood, tempo, and brand identity for commercial use.
 - [SongGPT](https://songgpt.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI song generator for producing full tracks from short text prompts with genre selection.
 - [Tunee](https://tunee.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI music and lyric generation platform with access to multiple underlying generative models for varied output styles.
-- [LOVO](https://lovo.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Advanced text-to-speech and voice cloning platform for content creators, supporting emotional range control and voice actor-style production.
 
 [↑ Back to top](#quick-navigation)
 
@@ -137,7 +132,6 @@
 ## Mastering, Mixing & Production Analysis
 
 - [SoundBoost AI](https://soundboostai.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI music mastering platform with goal-based controls — specify targets like loudness, warmth, or punch and the engine applies processing automatically.
-- [VerifAI Audio](https://verifai.audio/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Instant AI-driven feedback on track quality covering mixdown balance, loudness levels, bitrate, and other release-readiness metrics.
 
 [↑ Back to top](#quick-navigation)
 
@@ -161,9 +155,7 @@
 - [Aimi](https://www.aimi.fm) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) - Discover the artists who freed their music from the shackles of songs and playlists.
 - [Utopia Music](https://utopiamusic.com) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - Fair Pay for Every Play.
 - [Musiio](https://www.musiio.com) ![acquired](https://img.shields.io/badge/acquired-1c1c1c?style=flat-square) _(Acquired by SoundCloud)_ - Use Artificial Intelligence to help automate your workflows.
-- [niland](https://niland.io/) ![acquired](https://img.shields.io/badge/acquired-1c1c1c?style=flat-square) _(Acquired by Spotify)_ - Build AI Powered Music Apps.
 - [cyanite](https://cyanite.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - AI for Music tagging and similarity search.
-- [musicube](https://www.musicu.be/en/) ![acquired](https://img.shields.io/badge/acquired-1c1c1c?style=flat-square) _(Acquired by SongTradr)_ - B2B AI music metadata services like auto-tagging, metadata enrichment and semantic search.
 - [Musixmatch](https://www.musixmatch.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Algorithms and tools for music discovery, recommendation, and search based on lyrics.
 - [hoopr](https://www.hoopr.ai) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Find the best music, tell better stories, grow your audience.
 - [Pex](https://www.pex.com) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Music identification and copyright compliance. Audio fingerprinting, cover song identification in large scale.
@@ -188,7 +180,6 @@
 ## Radio & Podcast
 
 - [faidr](https://faidr.com) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) - Your favorite radio, interruption free.
-- [fathom](https://hello.fathom.fm) - The search engine for podcasts.
 - [Nomono](https://nomono.co) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![hardware](https://img.shields.io/badge/hardware-2e2e2e?style=flat-square) - A self-contained recording kit for capturing interviews in the field.
 - [Descript](https://www.descript.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - All-in-one audio & video editing, as easy as a doc.
 - [auphonic](https://auphonic.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Automatic audio post production web service for podcasts, broadcasters, radio shows, movies, screencasts and more.
@@ -201,7 +192,6 @@
 
 ## Hearing
 
-- [Whisper.ai](https://whisper.ai) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![hardware](https://img.shields.io/badge/hardware-2e2e2e?style=flat-square) - Smarter than your average hearing aid.
 - [Eargo](https://www.eargo.com) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![hardware](https://img.shields.io/badge/hardware-2e2e2e?style=flat-square) - A Revolutionary New Hearing Aid.
 - [Concha Labs](https://conchalabs.com/) ![hardware](https://img.shields.io/badge/hardware-2e2e2e?style=flat-square) - Helping you hear more clearly.
 
@@ -209,13 +199,11 @@
 
 ## Sound Detection
 
-- [Audio Analytic](https://www.audioanalytic.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Creating exceptional human experiences through a greater sense of hearing.
 - [SoundEye](https://sound-eye.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - Advanced sound recognition solutions capable of classifying sounds such as screaming, gunshot, coughing, and crying.
 - [cochl](https://www.cochl.ai/) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - A next-generation sound AI platform that understands any sounds like a human.
 - [Josh.ai](https://www.josh.ai/) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - A voice-controlled home automation system.
 - [SEE SOUND](https://www.see-sound.com/) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - The world's first smart home hearing system.
 - [Epigos.ai](https://www.epigos.ai/) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - AI models that can be used to extract hidden data from audio sources.
-- [HyperSurfaces](https://www.hypersurfaces.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - Seamlessly merging the physical and data worlds without the need for keyboards, buttons or touch screens.
 - [HyperSentience](https://hypersentience.ai) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - Delivers context awareness to phones, VR/AR headsets, smart watches, speakers and laptops.
 - [Circulr Sound](https://www.circulrsound.com/) ![hardware](https://img.shields.io/badge/hardware-2e2e2e?style=flat-square) - Smart audio wearables.
 - [Securaxis](https://www.securaxis.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - We turn sounds into information.
@@ -231,7 +219,6 @@
 - [krisp](https://krisp.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - An AI-powered software solution for effective online meetings.
 - [voicemod](https://www.voicemod.net/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Free real-time voice changer.
 - [audo](https://audo.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Noise cancellation products for creators, developers, and virtual meetings.
-- [AudioTelligence](https://audiotelligence.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Software that transforms the clarity and intelligibility of speech in challenging acoustic environments.
 - [immersitech.io](https://immersitech.io/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - We don't make audio. We make audio better.
 - [utterly](https://www.utterly.app/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Noise removal for meetings and audio.
 - [claerity.ai](https://www.claerity.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Cutting-edge AI to eliminate all background noise on video conference calls.
@@ -271,29 +258,21 @@
 
 ## Synthesis (TTS)
 
-- [adauris.ai](https://www.adauris.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Transforming written content into engaging audio with seamless distribution.
 - [Aflorithmic](https://www.aflorithmic.ai) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Professional audio, voice, sound and music to scale.
-- [Sonantic](https://www.sonantic.io) ![acquired](https://img.shields.io/badge/acquired-1c1c1c?style=flat-square) _(Acquired by Spotify)_ - Deliver compelling, lifelike performances with fully expressive AI-generated voices.
 - [kroop AI](https://www.kroop.ai) - Harness synthetic media generation and detection with endless possibilities.
 - [dubverse](https://dubverse.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Make your content multilingual at a click of a button and reach more people.
 - [Resemble.ai](https://www.resemble.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Generate AI Voices that sound real.
 - [Replica](https://replicastudios.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI voice actors for games, film & the metaverse.
 - [Respeecher](https://www.respeecher.com) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Voice Cloning for Content Creators.
-- [amai](https://amai.io/) - Ultra realistic text to speech voice engines.
 - [AssemblyAI](https://www.assemblyai.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Transcribe and understand audio with a single AI-powered API.
-- [DAISYS](https://daisys.ai/) - New voices that sound like real people.
 - [WellSaid](https://wellsaidlabs.com/) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Text-to-speech technology that creates life-like synthetic voices, from the voices of real people.
 - [Deepsync](https://deepsync.co/) - Generate audio content that exactly sounds like you.
-- [coqui.ai](https://coqui.ai/) ![open-source](https://img.shields.io/badge/open--source-4a2800?style=flat-square) - Providing open speech tech for everyone.
 - [Voiseed](https://voiseed.com/) - AI-based Voice Engine able to mimic the emotions and prosody of human speech.
-- [Speechki](https://speechki.io) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - NLP-based text and audio editing platform with hundreds of AI voices inside.
 - [Jellypod](https://jellypod.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - The AI podcast studio. Create customizable AI podcasts in minutes.
 - [MiSynth](https://www.misynth.io) - A brain-controlled instrument that uses synaptic technology and BCIs to turn imagined sounds into a synthesized MIDI instrument.
 - [ElevenLabs](https://beta.elevenlabs.io/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Developing the most compelling AI speech software for publishers and creators.
 - [Wondercraft](https://www.wondercraft.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Wondercraft enables users to generate podcasts using Text-to-Speech technology.
-- [play.ht](https://play.ht/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Building the future of content creation based on generative machine learning models.
 - [Revocalize.ai](https://www.revocalize.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Generate studio-quality AI Voices and train AI voice models from the web dashboard or the VST plugin.
-- [morpheme.ai](https://www.morpheme.ai) - Actor-First, Digital-Double Voices powered by the latest AI technology, ensuring they are efficient, authentic, and ethical.
 
 [↑ Back to top](#quick-navigation)
 
@@ -309,5 +288,36 @@
 Fork the repo, edit the README, and open a PR.
 
 [![Contributors](https://contrib.rocks/image?repo=theelderemo/ai-audio-tools)](https://github.com/theelderemo/ai-audio-tools/graphs/contributors)
+
+[↑ Back to top](#quick-navigation)
+
+---
+
+# Removed
+
+Tools that were once listed here but have since been taken out of the index, kept for archive and history purposes. Each line notes the category the tool lived in and why it was removed. URLs are shown as plain text rather than links so the weekly link check skips them.
+
+If you own or maintain one of these and the issue has been fixed, open a PR that moves the entry back into its category.
+
+- **Infinite Album** `https://www.infinitealbum.io` _(Creation & Production)_ - Connection not encrypted; SSL certificate error.
+- **mayk.it** `https://www.mayk.it/` _(Creation & Production)_ - Site returns 404.
+- **AI Music** `http://www.aimusic.co.uk/` _(Creation & Production)_ - Site no longer reachable after acquisition by Apple.
+- **LOVO** `https://lovo.ai/` _(Creation & Production)_ - Site returns 402 Payment Required.
+- **VerifAI Audio** `https://verifai.audio/` _(Mastering, Mixing & Production Analysis)_ - Site no longer reachable.
+- **niland** `https://niland.io/` _(Analysis & Recommendation)_ - Connection not encrypted; SSL certificate error.
+- **musicube** `https://www.musicu.be/en/` _(Analysis & Recommendation)_ - SSL certificate expired.
+- **fathom** `https://hello.fathom.fm` _(Radio & Podcast)_ - Site returns 404.
+- **Whisper.ai** `https://whisper.ai` _(Hearing)_ - Site no longer reachable.
+- **Audio Analytic** `https://www.audioanalytic.com/` _(Sound Detection)_ - Site no longer reachable.
+- **HyperSurfaces** `https://www.hypersurfaces.com/` _(Sound Detection)_ - Website expired.
+- **AudioTelligence** `https://audiotelligence.com/` _(Enhancement & Manipulation)_ - Connection not encrypted; SSL certificate error.
+- **adauris.ai** `https://www.adauris.ai` _(Speech — Synthesis (TTS))_ - Connection not encrypted; TLS handshake fails.
+- **Sonantic** `https://www.sonantic.io` _(Speech — Synthesis (TTS))_ - Site no longer reachable after acquisition by Spotify.
+- **amai** `https://amai.io/` _(Speech — Synthesis (TTS))_ - Site no longer reachable.
+- **DAISYS** `https://daisys.ai/` _(Speech — Synthesis (TTS))_ - Site returns 404.
+- **coqui.ai** `https://coqui.ai/` _(Speech — Synthesis (TTS))_ - Site returns 404.
+- **Speechki** `https://speechki.io` _(Speech — Synthesis (TTS))_ - Site no longer reachable.
+- **play.ht** `https://play.ht/` _(Speech — Synthesis (TTS))_ - Site no longer reachable.
+- **morpheme.ai** `https://www.morpheme.ai` _(Speech — Synthesis (TTS))_ - Site returns 404.
 
 [↑ Back to top](#quick-navigation)
