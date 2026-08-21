@@ -30,16 +30,13 @@ export const CATS = [
 { n: "CassetteAI", u: "https://cassetteAI.com", b: ["fm"], d: "AI powered music production platform: make lyrics, beats & vocals with AI then mix & publish straight from Cassette." },
 { n: "AIVA", u: "https://www.aiva.ai", b: ["fm"], d: "The Artificial Intelligence composing emotional soundtrack music." },
 { n: "beatoven.ai", u: "https://www.beatoven.ai", b: ["fm"], d: "A simplified music creation tool that helps you create music for your videos and podcasts." },
-{ n: "Infinite Album", u: "https://www.infinitealbum.io", b: ["fm"], d: "Adaptive AI music for gamers who livestream." },
 { n: "Epidemic Sound", u: "https://www.epidemicsound.com", b: ["p"], d: "High quality music and sound effects for all your content, all rights included." },
 { n: "Wonder", u: "https://www.wonder.inc", b: ["p"], d: "Dynascore: The world's first Dynamic Music Engine." },
 { n: "Amper", u: "https://www.ampermusic.com/", b: ["acq"], note: "(Acquired by Shutterstock)", d: "AI Music Composition Tools for Content Creators." },
 { n: "AudioStack", u: "https://www.audiostack.ai", b: ["p","api"], d: "AI-first platform for producing audio at scale." },
-{ n: "mayk.it", u: "https://www.mayk.it/", b: ["fm"], d: "Your virtual music studio." },
 { n: "boomy", u: "https://boomy.com/", b: ["fm"], d: "Make instant music, share it with the world." },
 { n: "enote", u: "https://enote.com", b: ["p"], d: "Intelligent Sheet Music." },
 { n: "Qosmo", u: "https://qosmo.jp/en/", b: [], d: "Qosmo is a group of artists, researchers, designers, and programmers." },
-{ n: "AI Music", u: "http://www.aimusic.co.uk/", b: ["acq"], note: "(Acquired by Apple)", d: "Our music helps brands enable deeper connections with their audiences." },
 { n: "Splash HQ", u: "https://www.splashcorporate.com/", b: [], d: "The next generation of music producers." },
 { n: "musico", u: "https://www.musi-co.com/", b: [], d: "AI-driven software engine that generates music. It can react to gesture, movement, code or other sound." },
 { n: "Yousician", u: "https://yousician.com/", b: ["fm"], d: "The largest music educator on the planet." },
@@ -60,8 +57,7 @@ export const CATS = [
 { n: "Ecrett Music", u: "https://ecrettmusic.com/", b: ["fm"], d: "Scene and mood-based AI background music generator aimed at video and content creators requiring instant scoring." },
 { n: "Soundful", u: "https://soundful.com/", b: ["fm"], d: "AI platform for generating royalty-free, high-quality soundtracks customizable by mood, tempo, and brand identity for commercial use." },
 { n: "SongGPT", u: "https://songgpt.com/", b: ["fm"], d: "AI song generator for producing full tracks from short text prompts with genre selection." },
-{ n: "Tunee", u: "https://tunee.ai/", b: ["fm"], d: "AI music and lyric generation platform with access to multiple underlying generative models for varied output styles." },
-{ n: "LOVO", u: "https://lovo.ai/", b: ["fm","api"], d: "Advanced text-to-speech and voice cloning platform for content creators, supporting emotional range control and voice actor-style production." }
+{ n: "Tunee", u: "https://tunee.ai/", b: ["fm"], d: "AI music and lyric generation platform with access to multiple underlying generative models for varied output styles." }
 ]},
 { id: "lyrics", name: "Lyric Writing & Songwriting", tools: [
 { n: "VRS/A", u: "https://vrsa.app", b: ["fm"], d: "AI-powered lyric writing and music production workstation with multi-model Ghostwriter, Suno integration via browser extension, audio analysis, album art generation, and VRSA Studio." },
@@ -90,8 +86,7 @@ export const CATS = [
 { n: "Fadr", u: "https://fadr.com/", b: ["fm"], d: "Remove stems, convert to MIDI, and create high-quality remixes and mashups using AI tools." }
 ]},
 { id: "mastering", name: "Mastering, Mixing & Production Analysis", tools: [
-{ n: "SoundBoost AI", u: "https://soundboostai.com/", b: ["fm"], d: "AI music mastering platform with goal-based controls — specify targets like loudness, warmth, or punch and the engine applies processing automatically." },
-{ n: "VerifAI Audio", u: "https://verifai.audio/", b: ["fm"], d: "Instant AI-driven feedback on track quality covering mixdown balance, loudness levels, bitrate, and other release-readiness metrics." }
+{ n: "SoundBoost AI", u: "https://soundboostai.com/", b: ["fm"], d: "AI music mastering platform with goal-based controls — specify targets like loudness, warmth, or punch and the engine applies processing automatically." }
 ]},
 { id: "plugins", name: "Plugins & Sample Tools", tools: [
 { n: "DD Shooter", u: "https://www.sonolisk.com/", b: ["fm","p","vst"], d: "AI-powered drum sample generator using text-conditioned diffusion models to create realistic isolated drum hits with control over drum type, genre, and timbral characteristics." },
@@ -109,9 +104,7 @@ export const CATS = [
 { n: "Aimi", u: "https://www.aimi.fm", b: ["f"], d: "Discover the artists who freed their music from the shackles of songs and playlists." },
 { n: "Utopia Music", u: "https://utopiamusic.com", b: ["ent"], d: "Fair Pay for Every Play." },
 { n: "Musiio", u: "https://www.musiio.com", b: ["acq"], note: "(Acquired by SoundCloud)", d: "Use Artificial Intelligence to help automate your workflows." },
-{ n: "niland", u: "https://niland.io/", b: ["acq"], note: "(Acquired by Spotify)", d: "Build AI Powered Music Apps." },
 { n: "cyanite", u: "https://cyanite.ai/", b: ["fm","api"], d: "AI for Music tagging and similarity search." },
-{ n: "musicube", u: "https://www.musicu.be/en/", b: ["acq"], note: "(Acquired by SongTradr)", d: "B2B AI music metadata services like auto-tagging, metadata enrichment and semantic search." },
 { n: "Musixmatch", u: "https://www.musixmatch.com/", b: ["fm","api"], d: "Algorithms and tools for music discovery, recommendation, and search based on lyrics." },
 { n: "hoopr", u: "https://www.hoopr.ai", b: ["p"], d: "Find the best music, tell better stories, grow your audience." },
 { n: "Pex", u: "https://www.pex.com", b: ["ent","api"], d: "Music identification and copyright compliance. Audio fingerprinting, cover song identification in large scale." }
@@ -130,7 +123,6 @@ export const CATS = [
 ]},
 { id: "podcast", name: "Radio & Podcast", tools: [
 { n: "faidr", u: "https://faidr.com", b: ["f"], d: "Your favorite radio, interruption free." },
-{ n: "fathom", u: "https://hello.fathom.fm", b: [], d: "The search engine for podcasts." },
 { n: "Nomono", u: "https://nomono.co", b: ["p","hw"], d: "A self-contained recording kit for capturing interviews in the field." },
 { n: "Descript", u: "https://www.descript.com", b: ["fm"], d: "All-in-one audio & video editing, as easy as a doc." },
 { n: "auphonic", u: "https://auphonic.com", b: ["fm"], d: "Automatic audio post production web service for podcasts, broadcasters, radio shows, movies, screencasts and more." },
@@ -140,18 +132,15 @@ export const CATS = [
 { n: "Super Hi-Fi", u: "https://www.superhifi.com/", b: ["ent"], d: "Artificial Intelligence Powered Music Experiences." }
 ]},
 { id: "hearing", name: "Hearing", tools: [
-{ n: "Whisper.ai", u: "https://whisper.ai", b: ["p","hw"], d: "Smarter than your average hearing aid." },
 { n: "Eargo", u: "https://www.eargo.com", b: ["p","hw"], d: "A Revolutionary New Hearing Aid." },
 { n: "Concha Labs", u: "https://conchalabs.com/", b: ["hw"], d: "Helping you hear more clearly." }
 ]},
 { id: "detection", name: "Sound Detection", tools: [
-{ n: "Audio Analytic", u: "https://www.audioanalytic.com/", b: ["ent","api"], d: "Creating exceptional human experiences through a greater sense of hearing." },
 { n: "SoundEye", u: "https://sound-eye.com/", b: ["ent"], d: "Advanced sound recognition solutions capable of classifying sounds such as screaming, gunshot, coughing, and crying." },
 { n: "cochl", u: "https://www.cochl.ai/", b: ["api","ent"], d: "A next-generation sound AI platform that understands any sounds like a human." },
 { n: "Josh.ai", u: "https://www.josh.ai/", b: ["p"], d: "A voice-controlled home automation system." },
 { n: "SEE SOUND", u: "https://www.see-sound.com/", b: ["p"], d: "The world's first smart home hearing system." },
 { n: "Epigos.ai", u: "https://www.epigos.ai/", b: ["api"], d: "AI models that can be used to extract hidden data from audio sources." },
-{ n: "HyperSurfaces", u: "https://www.hypersurfaces.com/", b: ["ent"], d: "Seamlessly merging the physical and data worlds without the need for keyboards, buttons or touch screens." },
 { n: "HyperSentience", u: "https://hypersentience.ai", b: ["ent"], d: "Delivers context awareness to phones, VR/AR headsets, smart watches, speakers and laptops." },
 { n: "Circulr Sound", u: "https://www.circulrsound.com/", b: ["hw"], d: "Smart audio wearables." },
 { n: "Securaxis", u: "https://www.securaxis.com/", b: ["ent"], d: "We turn sounds into information." },
@@ -164,7 +153,6 @@ export const CATS = [
 { n: "krisp", u: "https://krisp.ai/", b: ["fm"], d: "An AI-powered software solution for effective online meetings." },
 { n: "voicemod", u: "https://www.voicemod.net/", b: ["fm"], d: "Free real-time voice changer." },
 { n: "audo", u: "https://audo.ai/", b: ["fm","api"], d: "Noise cancellation products for creators, developers, and virtual meetings." },
-{ n: "AudioTelligence", u: "https://audiotelligence.com/", b: ["ent","api"], d: "Software that transforms the clarity and intelligibility of speech in challenging acoustic environments." },
 { n: "immersitech.io", u: "https://immersitech.io/", b: ["ent"], d: "We don't make audio. We make audio better." },
 { n: "utterly", u: "https://www.utterly.app/", b: ["fm"], d: "Noise removal for meetings and audio." },
 { n: "claerity.ai", u: "https://www.claerity.ai/", b: ["fm"], d: "Cutting-edge AI to eliminate all background noise on video conference calls." },
@@ -196,31 +184,46 @@ export const CATS = [
 { n: "Podsqueeze", u: "https://podsqueeze.com", b: ["fm"], d: "Re-purpose your audio or video podcast into transcript, show notes, blog post, video clips and other assets to publish and promote your show." }
 ]},
 { id: "tts", name: "Speech — Synthesis (TTS)", tools: [
-{ n: "adauris.ai", u: "https://www.adauris.ai", b: ["fm"], d: "Transforming written content into engaging audio with seamless distribution." },
 { n: "Aflorithmic", u: "https://www.aflorithmic.ai", b: ["p","api"], d: "Professional audio, voice, sound and music to scale." },
-{ n: "Sonantic", u: "https://www.sonantic.io", b: ["acq"], note: "(Acquired by Spotify)", d: "Deliver compelling, lifelike performances with fully expressive AI-generated voices." },
 { n: "kroop AI", u: "https://www.kroop.ai", b: [], d: "Harness synthetic media generation and detection with endless possibilities." },
 { n: "dubverse", u: "https://dubverse.ai", b: ["fm"], d: "Make your content multilingual at a click of a button and reach more people." },
 { n: "Resemble.ai", u: "https://www.resemble.ai", b: ["fm","api"], d: "Generate AI Voices that sound real." },
 { n: "Replica", u: "https://replicastudios.com", b: ["fm"], d: "AI voice actors for games, film & the metaverse." },
 { n: "Respeecher", u: "https://www.respeecher.com", b: ["p"], d: "Voice Cloning for Content Creators." },
-{ n: "amai", u: "https://amai.io/", b: [], d: "Ultra realistic text to speech voice engines." },
 { n: "AssemblyAI", u: "https://www.assemblyai.com", b: ["fm","api"], d: "Transcribe and understand audio with a single AI-powered API." },
-{ n: "DAISYS", u: "https://daisys.ai/", b: [], d: "New voices that sound like real people." },
 { n: "WellSaid", u: "https://wellsaidlabs.com/", b: ["p"], d: "Text-to-speech technology that creates life-like synthetic voices, from the voices of real people." },
 { n: "Deepsync", u: "https://deepsync.co/", b: [], d: "Generate audio content that exactly sounds like you." },
-{ n: "coqui.ai", u: "https://coqui.ai/", b: ["os"], d: "Providing open speech tech for everyone." },
 { n: "Voiseed", u: "https://voiseed.com/", b: [], d: "AI-based Voice Engine able to mimic the emotions and prosody of human speech." },
-{ n: "Speechki", u: "https://speechki.io", b: ["fm"], d: "NLP-based text and audio editing platform with hundreds of AI voices inside." },
 { n: "Jellypod", u: "https://jellypod.ai", b: ["fm"], d: "The AI podcast studio. Create customizable AI podcasts in minutes." },
 { n: "MiSynth", u: "https://www.misynth.io", b: [], d: "A brain-controlled instrument that uses synaptic technology and BCIs to turn imagined sounds into a synthesized MIDI instrument." },
 { n: "ElevenLabs", u: "https://beta.elevenlabs.io/", b: ["fm","api"], d: "Developing the most compelling AI speech software for publishers and creators." },
 { n: "Wondercraft", u: "https://www.wondercraft.ai/", b: ["fm"], d: "Wondercraft enables users to generate podcasts using Text-to-Speech technology." },
-{ n: "play.ht", u: "https://play.ht/", b: ["fm","api"], d: "Building the future of content creation based on generative machine learning models." },
-{ n: "Revocalize.ai", u: "https://www.revocalize.ai", b: ["fm"], d: "Generate studio-quality AI Voices and train AI voice models from the web dashboard or the VST plugin." },
-{ n: "morpheme.ai", u: "https://www.morpheme.ai", b: [], d: "Actor-First, Digital-Double Voices powered by the latest AI technology, ensuring they are efficient, authentic, and ethical." }
+{ n: "Revocalize.ai", u: "https://www.revocalize.ai", b: ["fm"], d: "Generate studio-quality AI Voices and train AI voice models from the web dashboard or the VST plugin." }
 ]},
 { id: "dev", name: "Development — Tools & SDKs", tools: [
 { n: "Quilio", u: "https://www.quilio.dev/", b: ["api"], d: "We maintain tools to help developers build real-time audio AI applications with ease." }
 ]}
+];
+
+export const REMOVED = [
+{ n: "Infinite Album", u: "https://www.infinitealbum.io", c: "Creation & Production", r: "Connection not encrypted; SSL certificate error." },
+{ n: "mayk.it", u: "https://www.mayk.it/", c: "Creation & Production", r: "Site returns 404." },
+{ n: "AI Music", u: "http://www.aimusic.co.uk/", c: "Creation & Production", r: "Site no longer reachable after acquisition by Apple." },
+{ n: "LOVO", u: "https://lovo.ai/", c: "Creation & Production", r: "Site returns 402 Payment Required." },
+{ n: "VerifAI Audio", u: "https://verifai.audio/", c: "Mastering, Mixing & Production Analysis", r: "Site no longer reachable." },
+{ n: "niland", u: "https://niland.io/", c: "Analysis & Recommendation", r: "Connection not encrypted; SSL certificate error." },
+{ n: "musicube", u: "https://www.musicu.be/en/", c: "Analysis & Recommendation", r: "SSL certificate expired." },
+{ n: "fathom", u: "https://hello.fathom.fm", c: "Radio & Podcast", r: "Site returns 404." },
+{ n: "Whisper.ai", u: "https://whisper.ai", c: "Hearing", r: "Site no longer reachable." },
+{ n: "Audio Analytic", u: "https://www.audioanalytic.com/", c: "Sound Detection", r: "Site no longer reachable." },
+{ n: "HyperSurfaces", u: "https://www.hypersurfaces.com/", c: "Sound Detection", r: "Website expired." },
+{ n: "AudioTelligence", u: "https://audiotelligence.com/", c: "Enhancement & Manipulation", r: "Connection not encrypted; SSL certificate error." },
+{ n: "adauris.ai", u: "https://www.adauris.ai", c: "Speech — Synthesis (TTS)", r: "Connection not encrypted; TLS handshake fails." },
+{ n: "Sonantic", u: "https://www.sonantic.io", c: "Speech — Synthesis (TTS)", r: "Site no longer reachable after acquisition by Spotify." },
+{ n: "amai", u: "https://amai.io/", c: "Speech — Synthesis (TTS)", r: "Site no longer reachable." },
+{ n: "DAISYS", u: "https://daisys.ai/", c: "Speech — Synthesis (TTS)", r: "Site returns 404." },
+{ n: "coqui.ai", u: "https://coqui.ai/", c: "Speech — Synthesis (TTS)", r: "Site returns 404." },
+{ n: "Speechki", u: "https://speechki.io", c: "Speech — Synthesis (TTS)", r: "Site no longer reachable." },
+{ n: "play.ht", u: "https://play.ht/", c: "Speech — Synthesis (TTS)", r: "Site no longer reachable." },
+{ n: "morpheme.ai", u: "https://www.morpheme.ai", c: "Speech — Synthesis (TTS)", r: "Site returns 404." }
 ];
