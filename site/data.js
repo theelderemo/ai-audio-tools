@@ -32,7 +32,6 @@ export const CATS = [
 { n: "beatoven.ai", u: "https://www.beatoven.ai", b: ["fm"], d: "A simplified music creation tool that helps you create music for your videos and podcasts." },
 { n: "Epidemic Sound", u: "https://www.epidemicsound.com", b: ["p"], d: "High quality music and sound effects for all your content, all rights included." },
 { n: "Wonder", u: "https://www.wonder.inc", b: ["p"], d: "Dynascore: The world's first Dynamic Music Engine." },
-{ n: "Amper", u: "https://www.ampermusic.com/", b: ["acq"], note: "(Acquired by Shutterstock)", d: "AI Music Composition Tools for Content Creators." },
 { n: "AudioStack", u: "https://www.audiostack.ai", b: ["p","api"], d: "AI-first platform for producing audio at scale." },
 { n: "boomy", u: "https://boomy.com/", b: ["fm"], d: "Make instant music, share it with the world." },
 { n: "enote", u: "https://enote.com", b: ["p"], d: "Intelligent Sheet Music." },
@@ -69,7 +68,6 @@ export const CATS = [
 { n: "Lalals", u: "https://lalals.com/", b: ["fm"], d: "AI voice swapping tool suite with 1,000+ voice options, stem splitting, and real-time conversion for remixes and vocal experimentation." }
 ]},
 { id: "separation", name: "Source Separation", tools: [
-{ n: "Music AI", u: "https://musicai.audio/", b: ["p","api"], d: "Professional AI stem separation and audio analysis platform for broadcasters and remixers, partnered with SourceAudio's 140+ broadcaster network." },
 { n: "TuneFlow", u: "https://tuneflow.com/", b: ["f"], d: "A free DAW offering high quality vocal, drums, melody, bass stem separation, all-in-one audio separation, editing and vocal/instrument to MIDI transcription." },
 { n: "Spliter.ai", u: "https://splitter.ai/", b: ["fm"], d: "AI Audio Processing." },
 { n: "Gaudio", u: "https://www.gaudiolab.com/", b: ["ent","api"], d: "Redefine your audio experience in music/video streaming and virtual/augmented reality." },
@@ -155,7 +153,6 @@ export const CATS = [
 { n: "audo", u: "https://audo.ai/", b: ["fm","api"], d: "Noise cancellation products for creators, developers, and virtual meetings." },
 { n: "immersitech.io", u: "https://immersitech.io/", b: ["ent"], d: "We don't make audio. We make audio better." },
 { n: "utterly", u: "https://www.utterly.app/", b: ["fm"], d: "Noise removal for meetings and audio." },
-{ n: "claerity.ai", u: "https://www.claerity.ai/", b: ["fm"], d: "Cutting-edge AI to eliminate all background noise on video conference calls." },
 { n: "Neural Love", u: "https://neural.love/audio", b: ["fm"], d: "Set of AI-powered tools to enhance audio quality." },
 { n: "HeardThat", u: "https://www.heardthatapp.com/", b: ["fm"], d: "A smartphone app that turns your smartphone into a sophisticated speech-enhancement device." },
 { n: "Chatable", u: "https://chatableapps.com", b: ["fm"], d: "A smartphone app that removes disruptive background noise." },
@@ -225,5 +222,8 @@ export const REMOVED = [
 { n: "coqui.ai", u: "https://coqui.ai/", c: "Speech — Synthesis (TTS)", r: "Site returns 404." },
 { n: "Speechki", u: "https://speechki.io", c: "Speech — Synthesis (TTS)", r: "Site no longer reachable." },
 { n: "play.ht", u: "https://play.ht/", c: "Speech — Synthesis (TTS)", r: "Site no longer reachable." },
+{ n: "Amper", u: "https://www.ampermusic.com/", c: "Creation & Production", r: "Site no longer reachable." },
+{ n: "Music AI", u: "https://musicai.audio/", c: "Source Separation", r: "Site no longer reachable." },
+{ n: "claerity.ai", u: "https://www.claerity.ai/", c: "Enhancement & Manipulation", r: "Site no longer reachable." },
 { n: "morpheme.ai", u: "https://www.morpheme.ai", c: "Speech — Synthesis (TTS)", r: "Site returns 404." }
 ];

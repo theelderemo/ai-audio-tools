@@ -7,9 +7,9 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Last Commit](https://img.shields.io/github/last-commit/theelderemo/ai-audio-tools?style=flat&color=blue)](https://github.com/theelderemo/ai-audio-tools/commits/main)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/theelderemo/ai-audio-tools/pulls)
-![Tools](https://img.shields.io/badge/tools%20listed-153-blueviolet?style=flat)
+![Tools](https://img.shields.io/badge/tools%20listed-150-blueviolet?style=flat)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=The+go-to+list+for+AI+audio+tools.;153+tools+across+15+categories.;Open+to+contributions.)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=The+go-to+list+for+AI+audio+tools.;150+tools+across+15+categories.;Open+to+contributions.)](https://github.com/DenverCoder1/readme-typing-svg)
 
 **[Browse the interactive index ↗](https://theelderemo.github.io/ai-audio-tools/)**
 
@@ -63,7 +63,6 @@
 - [beatoven.ai](https://www.beatoven.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - A simplified music creation tool that helps you create music for your videos and podcasts.
 - [Epidemic Sound](https://www.epidemicsound.com) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - High quality music and sound effects for all your content, all rights included.
 - [Wonder](https://www.wonder.inc) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Dynascore: The world's first Dynamic Music Engine.
-- [Amper](https://www.ampermusic.com/) ![acquired](https://img.shields.io/badge/acquired-1c1c1c?style=flat-square) _(Acquired by Shutterstock)_ - AI Music Composition Tools for Content Creators.
 - [AudioStack](https://www.audiostack.ai) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - AI-first platform for producing audio at scale.
 - [boomy](https://boomy.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Make instant music, share it with the world.
 - [enote](https://enote.com) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Intelligent Sheet Music.
@@ -111,7 +110,6 @@
 
 ## Source Separation
 
-- [Music AI](https://musicai.audio/) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Professional AI stem separation and audio analysis platform for broadcasters and remixers, partnered with SourceAudio's 140+ broadcaster network.
 - [TuneFlow](https://tuneflow.com/) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) - A free DAW offering high quality vocal, drums, melody, bass stem separation, all-in-one audio separation, editing and vocal/instrument to MIDI transcription.
 - [Spliter.ai](https://splitter.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI Audio Processing.
 - [Gaudio](https://www.gaudiolab.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Redefine your audio experience in music/video streaming and virtual/augmented reality.
@@ -221,7 +219,6 @@
 - [audo](https://audo.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Noise cancellation products for creators, developers, and virtual meetings.
 - [immersitech.io](https://immersitech.io/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - We don't make audio. We make audio better.
 - [utterly](https://www.utterly.app/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Noise removal for meetings and audio.
-- [claerity.ai](https://www.claerity.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Cutting-edge AI to eliminate all background noise on video conference calls.
 - [Neural Love](https://neural.love/audio) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Set of AI-powered tools to enhance audio quality.
 - [HeardThat](https://www.heardthatapp.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - A smartphone app that turns your smartphone into a sophisticated speech-enhancement device.
 - [Chatable](https://chatableapps.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - A smartphone app that removes disruptive background noise.
@@ -318,6 +315,9 @@ If you own or maintain one of these and the issue has been fixed, open a PR that
 - **coqui.ai** `https://coqui.ai/` _(Speech — Synthesis (TTS))_ - Site returns 404.
 - **Speechki** `https://speechki.io` _(Speech — Synthesis (TTS))_ - Site no longer reachable.
 - **play.ht** `https://play.ht/` _(Speech — Synthesis (TTS))_ - Site no longer reachable.
+- **Amper** `https://www.ampermusic.com/` _(Creation & Production)_ - Site no longer reachable.
+- **Music AI** `https://musicai.audio/` _(Source Separation)_ - Site no longer reachable.
+- **claerity.ai** `https://www.claerity.ai/` _(Enhancement & Manipulation)_ - Site no longer reachable.
 - **morpheme.ai** `https://www.morpheme.ai` _(Speech — Synthesis (TTS))_ - Site returns 404.
 
 [↑ Back to top](#quick-navigation)
