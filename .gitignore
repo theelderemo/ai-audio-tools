@@ -1,0 +1,50 @@
+# --- Secrets & local config ---
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+
+# --- OS noise ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+*.swo
+
+# --- Editor / IDE ---
+.idea/
+.vscode/
+*.code-workspace
+
+# --- Node / JS tooling (ai-audio-tools, scripts) ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+dist/
+build/
+.cache/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# --- Temp / scratch output ---
+tmp_pages/
+tmp/
+temp/
+*.tmp
+*.log
+
+# --- Archives & downloads ---
+*.zip
+*.tar
+*.tar.gz
+*.tgz
