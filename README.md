@@ -185,6 +185,7 @@
 - [Podcastle](https://podcastle.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Studio-quality recording, AI-powered editing, and seamless exporting.
 - [cleanvoice](https://cleanvoice.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Removes filler sounds, stuttering and mouth sounds from your podcast or audio recording.
 - [Super Hi-Fi](https://www.superhifi.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - Artificial Intelligence Powered Music Experiences.
+- [shortshort](https://www.shortshort.io) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Turns one long podcast or talk into up to 20 vertical 9:16 shorts that end on a complete sentence, with every word captioned.
 
 [↑ Back to top](#quick-navigation)
 
