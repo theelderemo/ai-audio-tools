@@ -58,6 +58,7 @@
 - [Sonauto](https://sonauto.ai/Home) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Create hit songs with AI.
 - [Microphone Studio](https://microphonestudio.app) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Multi-track recording without expensive studio equipment.
 - [TuneFlow](https://tuneflow.com/) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-4a2800?style=flat-square) - Generate lyrics, melody, drum beats and more, while editing and mixing like any professional DAW.
+- [MIDI From MP3](https://midifrommp3.com/) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) - Converts audio recordings to editable MIDI files locally in the browser without an account.
 - [CassetteAI](https://cassetteAI.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI powered music production platform: make lyrics, beats & vocals with AI then mix & publish straight from Cassette.
 - [AIVA](https://www.aiva.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - The Artificial Intelligence composing emotional soundtrack music.
 - [beatoven.ai](https://www.beatoven.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - A simplified music creation tool that helps you create music for your videos and podcasts.
