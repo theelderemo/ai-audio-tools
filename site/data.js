@@ -27,6 +27,7 @@ export const CATS = [
 { n: "Sonauto", u: "https://sonauto.ai/Home", b: ["fm"], d: "Create hit songs with AI." },
 { n: "Microphone Studio", u: "https://microphonestudio.app", b: ["fm"], d: "Multi-track recording without expensive studio equipment." },
 { n: "TuneFlow", u: "https://tuneflow.com/", b: ["f","os"], d: "Generate lyrics, melody, drum beats and more, while editing and mixing like any professional DAW." },
+{ n: "MIDI From MP3", u: "https://midifrommp3.com/", b: ["f"], d: "Converts audio recordings to editable MIDI files locally in the browser without an account." },
 { n: "CassetteAI", u: "https://cassetteAI.com", b: ["fm"], d: "AI powered music production platform: make lyrics, beats & vocals with AI then mix & publish straight from Cassette." },
 { n: "AIVA", u: "https://www.aiva.ai", b: ["fm"], d: "The Artificial Intelligence composing emotional soundtrack music." },
 { n: "beatoven.ai", u: "https://www.beatoven.ai", b: ["fm"], d: "A simplified music creation tool that helps you create music for your videos and podcasts." },
