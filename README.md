@@ -7,9 +7,9 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Last Commit](https://img.shields.io/github/last-commit/theelderemo/ai-audio-tools?style=flat&color=blue)](https://github.com/theelderemo/ai-audio-tools/commits/main)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/theelderemo/ai-audio-tools/pulls)
-![Tools](https://img.shields.io/badge/tools%20listed-150-blueviolet?style=flat)
+![Tools](https://img.shields.io/badge/tools%20listed-151-blueviolet?style=flat)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=The+go-to+list+for+AI+audio+tools.;150+tools+across+15+categories.;Open+to+contributions.)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=The+go-to+list+for+AI+audio+tools.;151+tools+across+15+categories.;Open+to+contributions.)](https://github.com/DenverCoder1/readme-typing-svg)
 
 **[Browse the interactive index ↗](https://theelderemo.github.io/ai-audio-tools/)**
 
