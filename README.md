@@ -58,7 +58,6 @@
 - [Sonauto](https://sonauto.ai/Home) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Create hit songs with AI.
 - [Microphone Studio](https://microphonestudio.app) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Multi-track recording without expensive studio equipment.
 - [TuneFlow](https://tuneflow.com/) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-4a2800?style=flat-square) - Generate lyrics, melody, drum beats and more, while editing and mixing like any professional DAW.
-- [MIDI From MP3](https://midifrommp3.com/) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) - Converts audio recordings to editable MIDI files locally in the browser without an account.
 - [CassetteAI](https://cassetteAI.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI powered music production platform: make lyrics, beats & vocals with AI then mix & publish straight from Cassette.
 - [AIVA](https://www.aiva.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - The Artificial Intelligence composing emotional soundtrack music.
 - [beatoven.ai](https://www.beatoven.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - A simplified music creation tool that helps you create music for your videos and podcasts.
@@ -122,6 +121,7 @@
 - [PhonicMind](https://phonicmind.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Separate vocals, drums, bass and other instruments out of your songs with HiFi AI.
 - [EasySplitter](https://easysplitter.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI-Based Vocal Remover Online for DJ Singers.
 - [Remover.studio](https://vocalremover.co) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) - Vocal Remover & Online Karaoke.
+- [MIDI From MP3](https://midifrommp3.com/) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) - Converts audio recordings to editable MIDI files locally in the browser without an account.
 - [MVSep](https://mvsep.com/) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) - Free separation of songs with many different algorithms (Demucs, MDX, UVR etc).
 - [MuzLab](https://muzlab.co/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Remove vocals from songs and split drums, bass and other instruments out of music.
 - [Fadr](https://fadr.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Remove stems, convert to MIDI, and create high-quality remixes and mashups using AI tools.
