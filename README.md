@@ -152,7 +152,6 @@
 - [AIMS](https://aimsapi.com) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - AI-powered music similarity search & auto-tagging for anyone who makes music discovery their business.
 - [FeedForward](https://www.feedforwardai.com) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - The intuitive audio search engine for audio & sound catalogues.
 - [Aimi](https://www.aimi.fm) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) - Discover the artists who freed their music from the shackles of songs and playlists.
-- [Utopia Music](https://utopiamusic.com) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - Fair Pay for Every Play.
 - [Musiio](https://www.musiio.com) ![acquired](https://img.shields.io/badge/acquired-1c1c1c?style=flat-square) _(Acquired by SoundCloud)_ - Use Artificial Intelligence to help automate your workflows.
 - [cyanite](https://cyanite.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - AI for Music tagging and similarity search.
 - [Musixmatch](https://www.musixmatch.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Algorithms and tools for music discovery, recommendation, and search based on lyrics.
@@ -170,7 +169,6 @@
 - [audEERING](https://www.audeering.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Technology that can detect emotions and health information from the voice.
 - [brain.fm](https://www.brain.fm/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Music to Focus Better.
 - [SPOKE](https://www.spoke.world/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Lo-fi & Lyricism-led Mindfulness music episodes.
-- [sona](https://sona.care/) - Music as medicine. Research-based music for anxiety made by Grammy-winning producers.
 - [Novoic](https://novoic.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - Using speech to detect neurological diseases.
 - [Ubenwa](https://www.ubenwa.ai) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - Infant health analysis based on cry signals.
 
@@ -320,5 +318,8 @@ If you own or maintain one of these and the issue has been fixed, open a PR that
 - **Music AI** `https://musicai.audio/` _(Source Separation)_ - Site no longer reachable.
 - **claerity.ai** `https://www.claerity.ai/` _(Enhancement & Manipulation)_ - Site no longer reachable.
 - **morpheme.ai** `https://www.morpheme.ai` _(Speech — Synthesis (TTS))_ - Site returns 404.
+- **sona** `https://sona.care/` (Health & Wellbeing) - Site no longer reachable.
+- **Replica** `https://replicastudios.com` (Speech — Synthesis (TTS)) - Site no longer reachable.
+- **Utopia Music** `https://utopiamusic.com` (Analysis & Recommendation) - Site no longer reachable.
 
 [↑ Back to top](#quick-navigation)
