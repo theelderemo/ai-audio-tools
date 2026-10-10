@@ -251,6 +251,7 @@
 - [Gladia](https://www.gladia.io) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Power your product with cutting-edge AI transcription, translation and audio intelligence using a single API.
 - [Podsqueeze](https://podsqueeze.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Re-purpose your audio or video podcast into transcript, show notes, blog post, video clips and other assets to publish and promote your show.
 - [TidyTools Audio Transcription](https://apify.com/tidytools/audio-transcriber) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Hosted Whisper large-v3-turbo transcription of audio and video URLs or podcast RSS feeds into timestamped text and SRT or VTT subtitles in 90+ languages, billed per audio minute.
+- [akou](https://github.com/GeiserX/akou) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-4a2800?style=flat-square) - Records calls and meetings on an Apple silicon Mac and transcribes them on the machine with speaker labels, and also runs as a self-hosted transcription server.
 
 [↑ Back to top](#quick-navigation)
 
