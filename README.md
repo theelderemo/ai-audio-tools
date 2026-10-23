@@ -265,7 +265,6 @@
 - [kroop AI](https://www.kroop.ai) - Harness synthetic media generation and detection with endless possibilities.
 - [dubverse](https://dubverse.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Make your content multilingual at a click of a button and reach more people.
 - [Resemble.ai](https://www.resemble.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Generate AI Voices that sound real.
-- [Replica](https://replicastudios.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI voice actors for games, film & the metaverse.
 - [Respeecher](https://www.respeecher.com) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Voice Cloning for Content Creators.
 - [AssemblyAI](https://www.assemblyai.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Transcribe and understand audio with a single AI-powered API.
 - [WellSaid](https://wellsaidlabs.com/) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Text-to-speech technology that creates life-like synthetic voices, from the voices of real people.
@@ -327,8 +326,8 @@ If you own or maintain one of these and the issue has been fixed, open a PR that
 - **Music AI** `https://musicai.audio/` _(Source Separation)_ - Site no longer reachable.
 - **claerity.ai** `https://www.claerity.ai/` _(Enhancement & Manipulation)_ - Site no longer reachable.
 - **morpheme.ai** `https://www.morpheme.ai` _(Speech — Synthesis (TTS))_ - Site returns 404.
-- **sona** `https://sona.care/` (Health & Wellbeing) - Site no longer reachable.
-- **Replica** `https://replicastudios.com` (Speech — Synthesis (TTS)) - Site no longer reachable.
-- **Utopia Music** `https://utopiamusic.com` (Analysis & Recommendation) - Site no longer reachable.
+- **sona** `https://sona.care/` _(Health & Wellbeing)_ - Site no longer reachable.
+- **Replica** `https://replicastudios.com` _(Speech — Synthesis (TTS))_ - Site no longer reachable.
+- **Utopia Music** `https://utopiamusic.com` _(Analysis & Recommendation)_ - Site no longer reachable.
 
 [↑ Back to top](#quick-navigation)
