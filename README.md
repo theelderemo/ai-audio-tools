@@ -108,6 +108,7 @@
 - [Jammable](https://www.jammable.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - (formerly Voicify AI) AI song cover generator with 22,000+ community-uploaded voice models and custom voice cloning from 10 minutes of audio.
 - [Musicfy](https://musicfy.lol) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI voice covers and voice cloning platform with text-to-music generation, voice-to-instrument conversion, and a large copyright-free vocal library.
 - [Lalals](https://lalals.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI voice swapping tool suite with 1,000+ voice options, stem splitting, and real-time conversion for remixes and vocal experimentation.
+- [Tera Studio](https://terastudio.co/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Web app that learns your own singing voice from about a minute of recording and then sings any uploaded song back in that voice, keeping the original melody, lyrics and timing, for songs in any language.
 
 [↑ Back to top](#quick-navigation)
 
