@@ -162,6 +162,7 @@
 - [Musixmatch](https://www.musixmatch.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Algorithms and tools for music discovery, recommendation, and search based on lyrics.
 - [hoopr](https://www.hoopr.ai) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Find the best music, tell better stories, grow your audience.
 - [Pex](https://www.pex.com) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Music identification and copyright compliance. Audio fingerprinting, cover song identification in large scale.
+- [DescribeMusic Music Analyzer](https://describemusic.net/analyze/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Upload a track to get a written description of its genre, mood, instruments, BPM and key, plus metadata tags.
 
 [↑ Back to top](#quick-navigation)
 
