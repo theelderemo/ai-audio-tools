@@ -230,6 +230,7 @@
 - [echosonic](https://www.echosonic.ca/) - Revolutionizing microphone by bringing Machine Learning capabilities into it.
 - [Insoundz](https://insoundz.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Generative AI Audio Enhancement.
 - [Xound](https://xound.io/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI-powered audio enhancements in just one click. Grammarly for audio.
+- [Diffio AI](https://diffio.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Restores recorded speech in a web app or over an API, taking out background noise, room echo, hum and tape hiss while returning only the voice.
 
 [↑ Back to top](#quick-navigation)
 
