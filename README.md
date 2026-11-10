@@ -95,6 +95,7 @@
 [↑ Back to top](#quick-navigation)
 
 <br>
+- [Imagera](https://imagera.ai) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Browser studio that writes, extends and covers songs, adds vocals or an instrumental and splits stems, alongside AI voice, image and video models.
 
 ## Lyric Writing & Songwriting
 
