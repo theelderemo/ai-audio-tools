@@ -120,6 +120,7 @@
 - [Audionamix](https://audionamix.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - Audio separation solutions for the entertainment industry.
 - [vocali.se](https://vocali.se/en) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Separate vocals and music from any song, in seconds.
 - [lalal.ai](https://www.lalal.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - High-quality stem splitting based on the world's #1 AI-powered technology.
+- [Mirinex](https://mirinex.com/stem-splitter) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Separates uploaded songs into vocals, drums, bass, guitar, piano and other instruments in a browser, with solo/mute controls, a free preview and paid full-length downloads.
 - [VocalRemover](https://vocalremover.org/) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) - Separate voice from music out of a song free with powerful AI algorithms.
 - [PhonicMind](https://phonicmind.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Separate vocals, drums, bass and other instruments out of your songs with HiFi AI.
 - [EasySplitter](https://easysplitter.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI-Based Vocal Remover Online for DJ Singers.
