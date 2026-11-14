@@ -278,6 +278,7 @@
 - [Wondercraft](https://www.wondercraft.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Wondercraft enables users to generate podcasts using Text-to-Speech technology.
 - [Revocalize.ai](https://www.revocalize.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Generate studio-quality AI Voices and train AI voice models from the web dashboard or the VST plugin.
 - [yovoice](https://github.com/leemysw/yovoice) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-4a2800?style=flat-square) - Desktop studio for macOS and Windows that runs TTS, voice cloning, song generation and MIDI scoring locally, with no cloud API or per-character fees.
+- [Sitey AI](https://app.sitey.pk/) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) - Urdu text to speech and WhatsApp voice notes in natural Urdu voices, on the web and in a free Android app.
 
 [↑ Back to top](#quick-navigation)
 
