@@ -230,6 +230,7 @@
 - [echosonic](https://www.echosonic.ca/) - Revolutionizing microphone by bringing Machine Learning capabilities into it.
 - [Insoundz](https://insoundz.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Generative AI Audio Enhancement.
 - [Xound](https://xound.io/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI-powered audio enhancements in just one click. Grammarly for audio.
+- [EraseNoise](https://erasenoise.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Browser tool that cleans noisy speech and lets you hear a short before-and-after preview before exporting the full file.
 
 [↑ Back to top](#quick-navigation)
 
