@@ -100,6 +100,7 @@
 
 - [VRS/A](https://vrsa.app) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI-powered lyric writing and music production workstation with multi-model Ghostwriter, Suno integration via browser extension, audio analysis, album art generation, and VRSA Studio.
 - [Lyric Studio](https://www.lyricstudio.co/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Mobile-first AI songwriting ecosystem with a lyric editor, AI-generated verse/chorus drafts, rhyme suggestions, and song organization tools.
+- [LyricsGift](https://lyricsgift.com) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Web service that writes a personalised AI-generated song from a short story about someone, with every lyric shown for approval before the music is made; sold per song, with free samples to listen to first.
 
 [↑ Back to top](#quick-navigation)
 
