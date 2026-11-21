@@ -135,6 +135,7 @@
 
 ## Mastering, Mixing & Production Analysis
 
+- [Echoteka](https://echoteka.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Online mastering for AI-generated and home-recorded tracks that removes generator artifacts, hits a streaming loudness target and gives one free master a day.
 - [SoundBoost AI](https://soundboostai.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI music mastering platform with goal-based controls — specify targets like loudness, warmth, or punch and the engine applies processing automatically.
 
 [↑ Back to top](#quick-navigation)
