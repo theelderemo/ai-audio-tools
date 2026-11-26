@@ -78,6 +78,7 @@ export const CATS = [
 { n: "Audionamix", u: "https://audionamix.com/", b: ["ent"], d: "Audio separation solutions for the entertainment industry." },
 { n: "vocali.se", u: "https://vocali.se/en", b: ["fm"], d: "Separate vocals and music from any song, in seconds." },
 { n: "lalal.ai", u: "https://www.lalal.ai/", b: ["fm"], d: "High-quality stem splitting based on the world's #1 AI-powered technology." },
+{ n: "MusiCraft AI", u: "https://www.musicraft.ai/features/stem-splitter", b: ["fm"], d: "Browser stem splitter with dozens of separation modes for vocals, drums, bass, choir parts and single instruments." },
 { n: "VocalRemover", u: "https://vocalremover.org/", b: ["f"], d: "Separate voice from music out of a song free with powerful AI algorithms." },
 { n: "PhonicMind", u: "https://phonicmind.com/", b: ["fm"], d: "Separate vocals, drums, bass and other instruments out of your songs with HiFi AI." },
 { n: "EasySplitter", u: "https://easysplitter.com/", b: ["fm"], d: "AI-Based Vocal Remover Online for DJ Singers." },
