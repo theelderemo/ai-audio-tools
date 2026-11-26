@@ -4,6 +4,7 @@ const state = { query: '', active: new Set() };
 const $ = s => document.querySelector(s);
 const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const label = k => BADGES[k].label.toLowerCase().replace('open-src', 'open source');
+const safeUrl = u => /^https?:\/\//i.test(u) ? u : '#';
 const pad = n => String(n).padStart(2, '0');
 
 const applyTheme = t => {
