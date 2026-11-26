@@ -194,6 +194,7 @@ export const CATS = [
 { n: "BoldVoice", u: "https://www.boldvoice.com/", b: ["p"], d: "Speak English clearly and confidently." },
 { n: "Gladia", u: "https://www.gladia.io", b: ["fm","api"], d: "Power your product with cutting-edge AI transcription, translation and audio intelligence using a single API." },
 { n: "Podsqueeze", u: "https://podsqueeze.com", b: ["fm"], d: "Re-purpose your audio or video podcast into transcript, show notes, blog post, video clips and other assets to publish and promote your show." },
+{ n: "Transcribe Video: To The Text", u: "https://video2text.ttt.so", b: ["fm"], d: "iPhone app that turns video files, YouTube and Vimeo links, and live voice into text with speaker-aware view, summaries, and TXT/DOCX export." },
 { n: "Arcmira", u: "https://arcmira.com", b: ["fm","api"], d: "Search indexed YouTube and podcast transcripts for a quote, then jump to the timestamp to hear the speaker in context." },
 { n: "TidyTools Audio Transcription", u: "https://apify.com/tidytools/audio-transcriber", b: ["p","api"], d: "Hosted Whisper large-v3-turbo transcription of audio and video URLs or podcast RSS feeds into timestamped text and SRT or VTT subtitles in 90+ languages, billed per audio minute." },
 { n: "akou", u: "https://github.com/GeiserX/akou", b: ["f","os"], d: "Records calls and meetings on an Apple silicon Mac and transcribes them on the machine with speaker labels, and also runs as a self-hosted transcription server." },
