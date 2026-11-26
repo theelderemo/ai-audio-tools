@@ -207,7 +207,8 @@ export const CATS = [
 { n: "ElevenLabs", u: "https://beta.elevenlabs.io/", b: ["fm","api"], d: "Developing the most compelling AI speech software for publishers and creators." },
 { n: "Wondercraft", u: "https://www.wondercraft.ai/", b: ["fm"], d: "Wondercraft enables users to generate podcasts using Text-to-Speech technology." },
 { n: "Revocalize.ai", u: "https://www.revocalize.ai", b: ["fm"], d: "Generate studio-quality AI Voices and train AI voice models from the web dashboard or the VST plugin." },
-{ n: "yovoice", u: "https://github.com/leemysw/yovoice", b: ["f","os"], d: "Desktop studio for macOS and Windows that runs TTS, voice cloning, song generation and MIDI scoring locally, with no cloud API or per-character fees." }
+{ n: "yovoice", u: "https://github.com/leemysw/yovoice", b: ["f","os"], d: "Desktop studio for macOS and Windows that runs TTS, voice cloning, song generation and MIDI scoring locally, with no cloud API or per-character fees." },
+{ n: "Ito", u: "https://github.com/lokutor-ai/ito", b: ["os"], d: "Streaming speech synthesis whose neural model runs on an ESP32-S3 microcontroller with no cloud; code is GPLv3 and the voice weights are non-commercial." }
 ]},
 { id: "dev", name: "Development — Tools & SDKs", tools: [
 { n: "Quilio", u: "https://www.quilio.dev/", b: ["api"], d: "We maintain tools to help developers build real-time audio AI applications with ease." },
