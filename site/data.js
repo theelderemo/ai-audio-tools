@@ -27,7 +27,6 @@ export const CATS = [
 { n: "Sonauto", u: "https://sonauto.ai/Home", b: ["fm"], d: "Create hit songs with AI." },
 { n: "Microphone Studio", u: "https://microphonestudio.app", b: ["fm"], d: "Multi-track recording without expensive studio equipment." },
 { n: "TuneFlow", u: "https://tuneflow.com/", b: ["f","os"], d: "Generate lyrics, melody, drum beats and more, while editing and mixing like any professional DAW." },
-{ n: "MIDI From MP3", u: "https://midifrommp3.com/", b: ["f"], d: "Converts audio recordings to editable MIDI files locally in the browser without an account." },
 { n: "CassetteAI", u: "https://cassetteAI.com", b: ["fm"], d: "AI powered music production platform: make lyrics, beats & vocals with AI then mix & publish straight from Cassette." },
 { n: "AIVA", u: "https://www.aiva.ai", b: ["fm"], d: "The Artificial Intelligence composing emotional soundtrack music." },
 { n: "beatoven.ai", u: "https://www.beatoven.ai", b: ["fm"], d: "A simplified music creation tool that helps you create music for your videos and podcasts." },
@@ -57,7 +56,10 @@ export const CATS = [
 { n: "Ecrett Music", u: "https://ecrettmusic.com/", b: ["fm"], d: "Scene and mood-based AI background music generator aimed at video and content creators requiring instant scoring." },
 { n: "Soundful", u: "https://soundful.com/", b: ["fm"], d: "AI platform for generating royalty-free, high-quality soundtracks customizable by mood, tempo, and brand identity for commercial use." },
 { n: "SongGPT", u: "https://songgpt.com/", b: ["fm"], d: "AI song generator for producing full tracks from short text prompts with genre selection." },
-{ n: "Tunee", u: "https://tunee.ai/", b: ["fm"], d: "AI music and lyric generation platform with access to multiple underlying generative models for varied output styles." }
+{ n: "Tunee", u: "https://tunee.ai/", b: ["fm"], d: "AI music and lyric generation platform with access to multiple underlying generative models for varied output styles." },
+{ n: "Tunely", u: "https://tunelyai.com", b: ["fm"], d: "Text-to-song generator that turns a one-line description or your own lyrics into a full song with vocals and synced lyrics, plus remix tools to add vocals to your own beat or re-sing a song in another language." },
+{ n: "SongUp AI", u: "https://www.songupai.com", b: ["fm","api"], d: "Web app that writes and sings full songs with vocals in 76 languages from a prompt, your own lyrics or a hummed melody, plus free browser tools for mastering, auto-tune and key/BPM detection." },
+{ n: "Aimusicgen", u: "https://aimusicgen.app", b: ["fm"], d: "Browser-based song generator that turns a text description or your own lyrics into a full track with vocals or an instrumental, plus a lyrics generator and an AI song cover tool." }
 ]},
 { id: "lyrics", name: "Lyric Writing & Songwriting", tools: [
 { n: "VRS/A", u: "https://vrsa.app", b: ["fm"], d: "AI-powered lyric writing and music production workstation with multi-model Ghostwriter, Suno integration via browser extension, audio analysis, album art generation, and VRSA Studio." },
@@ -80,11 +82,15 @@ export const CATS = [
 { n: "PhonicMind", u: "https://phonicmind.com/", b: ["fm"], d: "Separate vocals, drums, bass and other instruments out of your songs with HiFi AI." },
 { n: "EasySplitter", u: "https://easysplitter.com/", b: ["fm"], d: "AI-Based Vocal Remover Online for DJ Singers." },
 { n: "Remover.studio", u: "https://vocalremover.co", b: ["f"], d: "Vocal Remover & Online Karaoke." },
+{ n: "MIDI From MP3", u: "https://midifrommp3.com/", b: ["f"], d: "Converts audio recordings to editable MIDI files locally in the browser without an account." },
 { n: "MVSep", u: "https://mvsep.com/", b: ["f"], d: "Free separation of songs with many different algorithms (Demucs, MDX, UVR etc)." },
+{ n: "Vocal Separator", u: "https://vocalseparator.com/", b: ["fm"], d: "Splits audio into vocal/instrumental or four WAV stems for practice, with an anonymous daily free allowance and optional prepaid minutes." },
 { n: "MuzLab", u: "https://muzlab.co/", b: ["fm"], d: "Remove vocals from songs and split drums, bass and other instruments out of music." },
-{ n: "Fadr", u: "https://fadr.com/", b: ["fm"], d: "Remove stems, convert to MIDI, and create high-quality remixes and mashups using AI tools." }
+{ n: "Fadr", u: "https://fadr.com/", b: ["fm"], d: "Remove stems, convert to MIDI, and create high-quality remixes and mashups using AI tools." },
+{ n: "Saturalabs", u: "https://www.saturalabs.com/", b: ["p"], d: "Uses text prompts to separate a voice, instrument, or sound effect in audio or video, producing a target track and the remaining mix." }
 ]},
 { id: "mastering", name: "Mastering, Mixing & Production Analysis", tools: [
+{ n: "Prompt Maschine", u: "https://promptmaschine.com/mastering.html", b: ["fm"], d: "Master a finished track on iPhone or iPad with five editable processors, then compare the original and master at matched loudness." },
 { n: "SoundBoost AI", u: "https://soundboostai.com/", b: ["fm"], d: "AI music mastering platform with goal-based controls — specify targets like loudness, warmth, or punch and the engine applies processing automatically." }
 ]},
 { id: "plugins", name: "Plugins & Sample Tools", tools: [
@@ -101,7 +107,6 @@ export const CATS = [
 { n: "AIMS", u: "https://aimsapi.com", b: ["p","api"], d: "AI-powered music similarity search & auto-tagging for anyone who makes music discovery their business." },
 { n: "FeedForward", u: "https://www.feedforwardai.com", b: ["ent","api"], d: "The intuitive audio search engine for audio & sound catalogues." },
 { n: "Aimi", u: "https://www.aimi.fm", b: ["f"], d: "Discover the artists who freed their music from the shackles of songs and playlists." },
-{ n: "Utopia Music", u: "https://utopiamusic.com", b: ["ent"], d: "Fair Pay for Every Play." },
 { n: "Musiio", u: "https://www.musiio.com", b: ["acq"], note: "(Acquired by SoundCloud)", d: "Use Artificial Intelligence to help automate your workflows." },
 { n: "cyanite", u: "https://cyanite.ai/", b: ["fm","api"], d: "AI for Music tagging and similarity search." },
 { n: "Musixmatch", u: "https://www.musixmatch.com/", b: ["fm","api"], d: "Algorithms and tools for music discovery, recommendation, and search based on lyrics." },
@@ -116,7 +121,6 @@ export const CATS = [
 { n: "audEERING", u: "https://www.audeering.com/", b: ["ent","api"], d: "Technology that can detect emotions and health information from the voice." },
 { n: "brain.fm", u: "https://www.brain.fm/", b: ["fm"], d: "Music to Focus Better." },
 { n: "SPOKE", u: "https://www.spoke.world/", b: ["fm"], d: "Lo-fi & Lyricism-led Mindfulness music episodes." },
-{ n: "sona", u: "https://sona.care/", b: [], d: "Music as medicine. Research-based music for anxiety made by Grammy-winning producers." },
 { n: "Novoic", u: "https://novoic.com/", b: ["ent"], d: "Using speech to detect neurological diseases." },
 { n: "Ubenwa", u: "https://www.ubenwa.ai", b: ["ent"], d: "Infant health analysis based on cry signals." }
 ]},
@@ -179,14 +183,16 @@ export const CATS = [
 { n: "Picovoice", u: "https://picovoice.ai/", b: ["fm","api","os"], d: "End-to-end Edge Voice AI, on-device voice recognition." },
 { n: "BoldVoice", u: "https://www.boldvoice.com/", b: ["p"], d: "Speak English clearly and confidently." },
 { n: "Gladia", u: "https://www.gladia.io", b: ["fm","api"], d: "Power your product with cutting-edge AI transcription, translation and audio intelligence using a single API." },
-{ n: "Podsqueeze", u: "https://podsqueeze.com", b: ["fm"], d: "Re-purpose your audio or video podcast into transcript, show notes, blog post, video clips and other assets to publish and promote your show." }
+{ n: "Podsqueeze", u: "https://podsqueeze.com", b: ["fm"], d: "Re-purpose your audio or video podcast into transcript, show notes, blog post, video clips and other assets to publish and promote your show." },
+{ n: "TidyTools Audio Transcription", u: "https://apify.com/tidytools/audio-transcriber", b: ["p","api"], d: "Hosted Whisper large-v3-turbo transcription of audio and video URLs or podcast RSS feeds into timestamped text and SRT or VTT subtitles in 90+ languages, billed per audio minute." },
+{ n: "akou", u: "https://github.com/GeiserX/akou", b: ["f","os"], d: "Records calls and meetings on an Apple silicon Mac and transcribes them on the machine with speaker labels, and also runs as a self-hosted transcription server." },
+{ n: "Yap Audio to Text", u: "https://yapapp.cc/audio-to-text", b: ["f"], d: "Transcribes audio and video files to text or SRT and VTT subtitles right in the browser, so the files are never uploaded." }
 ]},
 { id: "tts", name: "Speech — Synthesis (TTS)", tools: [
 { n: "Aflorithmic", u: "https://www.aflorithmic.ai", b: ["p","api"], d: "Professional audio, voice, sound and music to scale." },
 { n: "kroop AI", u: "https://www.kroop.ai", b: [], d: "Harness synthetic media generation and detection with endless possibilities." },
 { n: "dubverse", u: "https://dubverse.ai", b: ["fm"], d: "Make your content multilingual at a click of a button and reach more people." },
 { n: "Resemble.ai", u: "https://www.resemble.ai", b: ["fm","api"], d: "Generate AI Voices that sound real." },
-{ n: "Replica", u: "https://replicastudios.com", b: ["fm"], d: "AI voice actors for games, film & the metaverse." },
 { n: "Respeecher", u: "https://www.respeecher.com", b: ["p"], d: "Voice Cloning for Content Creators." },
 { n: "AssemblyAI", u: "https://www.assemblyai.com", b: ["fm","api"], d: "Transcribe and understand audio with a single AI-powered API." },
 { n: "WellSaid", u: "https://wellsaidlabs.com/", b: ["p"], d: "Text-to-speech technology that creates life-like synthetic voices, from the voices of real people." },
@@ -196,10 +202,12 @@ export const CATS = [
 { n: "MiSynth", u: "https://www.misynth.io", b: [], d: "A brain-controlled instrument that uses synaptic technology and BCIs to turn imagined sounds into a synthesized MIDI instrument." },
 { n: "ElevenLabs", u: "https://beta.elevenlabs.io/", b: ["fm","api"], d: "Developing the most compelling AI speech software for publishers and creators." },
 { n: "Wondercraft", u: "https://www.wondercraft.ai/", b: ["fm"], d: "Wondercraft enables users to generate podcasts using Text-to-Speech technology." },
-{ n: "Revocalize.ai", u: "https://www.revocalize.ai", b: ["fm"], d: "Generate studio-quality AI Voices and train AI voice models from the web dashboard or the VST plugin." }
+{ n: "Revocalize.ai", u: "https://www.revocalize.ai", b: ["fm"], d: "Generate studio-quality AI Voices and train AI voice models from the web dashboard or the VST plugin." },
+{ n: "yovoice", u: "https://github.com/leemysw/yovoice", b: ["f","os"], d: "Desktop studio for macOS and Windows that runs TTS, voice cloning, song generation and MIDI scoring locally, with no cloud API or per-character fees." }
 ]},
 { id: "dev", name: "Development — Tools & SDKs", tools: [
-{ n: "Quilio", u: "https://www.quilio.dev/", b: ["api"], d: "We maintain tools to help developers build real-time audio AI applications with ease." }
+{ n: "Quilio", u: "https://www.quilio.dev/", b: ["api"], d: "We maintain tools to help developers build real-time audio AI applications with ease." },
+{ n: "PlaceCall", u: "https://voygr.tech/placecall/", b: ["p","api"], d: "Voice agent that an AI assistant sends to phone US businesses through phone menus and hold, returning the call outcome, transcript and recording through a REST API or MCP server." }
 ]}
 ];
 
@@ -226,5 +234,8 @@ export const REMOVED = [
 { n: "Amper", u: "https://www.ampermusic.com/", c: "Creation & Production", r: "Site no longer reachable." },
 { n: "Music AI", u: "https://musicai.audio/", c: "Source Separation", r: "Site no longer reachable." },
 { n: "claerity.ai", u: "https://www.claerity.ai/", c: "Enhancement & Manipulation", r: "Site no longer reachable." },
-{ n: "morpheme.ai", u: "https://www.morpheme.ai", c: "Speech — Synthesis (TTS)", r: "Site returns 404." }
+{ n: "morpheme.ai", u: "https://www.morpheme.ai", c: "Speech — Synthesis (TTS)", r: "Site returns 404." },
+{ n: "sona", u: "https://sona.care/", c: "Health & Wellbeing", r: "Site no longer reachable." },
+{ n: "Replica", u: "https://replicastudios.com", c: "Speech — Synthesis (TTS)", r: "Site no longer reachable." },
+{ n: "Utopia Music", u: "https://utopiamusic.com", c: "Analysis & Recommendation", r: "Site no longer reachable." }
 ];
