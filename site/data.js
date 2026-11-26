@@ -210,7 +210,8 @@ export const CATS = [
 ]},
 { id: "dev", name: "Development — Tools & SDKs", tools: [
 { n: "Quilio", u: "https://www.quilio.dev/", b: ["api"], d: "We maintain tools to help developers build real-time audio AI applications with ease." },
-{ n: "PlaceCall", u: "https://voygr.tech/placecall/", b: ["p","api"], d: "Voice agent that an AI assistant sends to phone US businesses through phone menus and hold, returning the call outcome, transcript and recording through a REST API or MCP server." }
+{ n: "PlaceCall", u: "https://voygr.tech/placecall/", b: ["p","api"], d: "Voice agent that an AI assistant sends to phone US businesses through phone menus and hold, returning the call outcome, transcript and recording through a REST API or MCP server." },
+{ n: "Lokutor", u: "https://lokutor.com", b: ["p","api"], d: "Own speech models for text-to-speech and speech recognition, with an API and voice agents." }
 ]}
 ];
 
