@@ -171,6 +171,7 @@ export const CATS = [
 { n: "echosonic", u: "https://www.echosonic.ca/", b: [], d: "Revolutionizing microphone by bringing Machine Learning capabilities into it." },
 { n: "Insoundz", u: "https://insoundz.com/", b: ["fm"], d: "Generative AI Audio Enhancement." },
 { n: "Xound", u: "https://xound.io/", b: ["fm"], d: "AI-powered audio enhancements in just one click. Grammarly for audio." },
+{ n: "EraseNoise", u: "https://erasenoise.com/", b: ["fm"], d: "Browser tool that cleans noisy speech and lets you hear a short before-and-after preview before exporting the full file." },
 { n: "Diffio AI", u: "https://diffio.ai/", b: ["fm","api"], d: "Restores recorded speech in a web app or over an API, taking out background noise, room echo, hum and tape hiss while returning only the voice." }
 ]},
 { id: "transcription", name: "Speech — Transcription", tools: [
