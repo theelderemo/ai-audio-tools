@@ -65,7 +65,8 @@ export const CATS = [
 ]},
 { id: "lyrics", name: "Lyric Writing & Songwriting", tools: [
 { n: "VRS/A", u: "https://vrsa.app", b: ["fm"], d: "AI-powered lyric writing and music production workstation with multi-model Ghostwriter, Suno integration via browser extension, audio analysis, album art generation, and VRSA Studio." },
-{ n: "Lyric Studio", u: "https://www.lyricstudio.co/", b: ["fm"], d: "Mobile-first AI songwriting ecosystem with a lyric editor, AI-generated verse/chorus drafts, rhyme suggestions, and song organization tools." }
+{ n: "Lyric Studio", u: "https://www.lyricstudio.co/", b: ["fm"], d: "Mobile-first AI songwriting ecosystem with a lyric editor, AI-generated verse/chorus drafts, rhyme suggestions, and song organization tools." },
+{ n: "LyricsGift", u: "https://lyricsgift.com", b: ["p"], d: "Web service that writes a personalised AI-generated song from a short story about someone, with every lyric shown for approval before the music is made; sold per song, with free samples to listen to first." }
 ]},
 { id: "voice", name: "AI Voice & Cover Generation", tools: [
 { n: "Jammable", u: "https://www.jammable.com", b: ["fm"], d: "(formerly Voicify AI) AI song cover generator with 22,000+ community-uploaded voice models and custom voice cloning from 10 minutes of audio." },
