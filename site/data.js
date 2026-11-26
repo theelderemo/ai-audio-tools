@@ -47,6 +47,7 @@ export const CATS = [
 { n: "NeuralDSP", u: "https://neuraldsp.com", b: ["p","vst"], d: "Empowers music players by democratizing the access to world-class sound, through an intuitive software/hardware ecosystem." },
 { n: "Neutone", u: "https://neutone.space/", b: ["f","vst"], d: "AI audio plugin & community bridging the gap between AI research and creativity." },
 { n: "Udio", u: "https://www.udio.com", b: ["fm"], d: "AI music generator with full song creation from text prompts, integrated lyric editor, and granular line-by-line vocal control." },
+{ n: "MakeASong", u: "https://makeasong.io", b: ["fm"], d: "Web app that writes and produces a complete original song, vocals included, from a short text prompt, with downloadable results." },
 { n: "Mureka", u: "https://www.mureka.ai/", b: ["fm"], d: "AI music generation with style-reference input, vocal timbre selection, and voice cloning for demos and song prototyping." },
 { n: "Soundverse", u: "https://soundverse.ai", b: ["fm"], d: "Full-suite AI music studio with text-to-song, beat generation, stem separation, and SAAR — a voice-controlled music production assistant." },
 { n: "ACE Studio", u: "https://acestudio.ai", b: ["fm"], d: "All-in-one AI music studio with expressive AI vocals, natural-sounding AI instruments, and a DAW bridge for Logic, Ableton, and FL Studio." },
