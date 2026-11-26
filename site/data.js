@@ -190,7 +190,8 @@ export const CATS = [
 { n: "Arcmira", u: "https://arcmira.com", b: ["fm","api"], d: "Search indexed YouTube and podcast transcripts for a quote, then jump to the timestamp to hear the speaker in context." },
 { n: "TidyTools Audio Transcription", u: "https://apify.com/tidytools/audio-transcriber", b: ["p","api"], d: "Hosted Whisper large-v3-turbo transcription of audio and video URLs or podcast RSS feeds into timestamped text and SRT or VTT subtitles in 90+ languages, billed per audio minute." },
 { n: "akou", u: "https://github.com/GeiserX/akou", b: ["f","os"], d: "Records calls and meetings on an Apple silicon Mac and transcribes them on the machine with speaker labels, and also runs as a self-hosted transcription server." },
-{ n: "Yap Audio to Text", u: "https://yapapp.cc/audio-to-text", b: ["f"], d: "Transcribes audio and video files to text or SRT and VTT subtitles right in the browser, so the files are never uploaded." }
+{ n: "Yap Audio to Text", u: "https://yapapp.cc/audio-to-text", b: ["f"], d: "Transcribes audio and video files to text or SRT and VTT subtitles right in the browser, so the files are never uploaded." },
+{ n: "VoiceVibe", u: "https://voicevibe.ai/", b: ["fm"], d: "Voice assistant for Windows, macOS and Linux (X11) that types what you say into any app, reads text aloud and passes spoken requests to AI chats or agents." }
 ]},
 { id: "tts", name: "Speech — Synthesis (TTS)", tools: [
 { n: "Aflorithmic", u: "https://www.aflorithmic.ai", b: ["p","api"], d: "Professional audio, voice, sound and music to scale." },
