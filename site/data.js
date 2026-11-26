@@ -117,6 +117,7 @@ export const CATS = [
 { n: "Musixmatch", u: "https://www.musixmatch.com/", b: ["fm","api"], d: "Algorithms and tools for music discovery, recommendation, and search based on lyrics." },
 { n: "hoopr", u: "https://www.hoopr.ai", b: ["p"], d: "Find the best music, tell better stories, grow your audience." },
 { n: "Pex", u: "https://www.pex.com", b: ["ent","api"], d: "Music identification and copyright compliance. Audio fingerprinting, cover song identification in large scale." },
+{ n: "Is This Song AI", u: "https://isthissongai.app/", b: ["fm"], d: "Checks whether a song was likely made with an AI music generator such as Suno or Udio from a Spotify, Apple Music, Deezer or YouTube link, a song title or an uploaded audio file, and returns Likely AI, Unclear or Likely human with the reasons." },
 { n: "DescribeMusic Music Analyzer", u: "https://describemusic.net/analyze/", b: ["fm"], d: "Upload a track to get a written description of its genre, mood, instruments, BPM and key, plus metadata tags." }
 ]},
 { id: "health", name: "Health & Wellbeing", tools: [
