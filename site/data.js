@@ -216,6 +216,7 @@ export const CATS = [
 { n: "Wondercraft", u: "https://www.wondercraft.ai/", b: ["fm"], d: "Wondercraft enables users to generate podcasts using Text-to-Speech technology." },
 { n: "Revocalize.ai", u: "https://www.revocalize.ai", b: ["fm"], d: "Generate studio-quality AI Voices and train AI voice models from the web dashboard or the VST plugin." },
 { n: "yovoice", u: "https://github.com/leemysw/yovoice", b: ["f","os"], d: "Desktop studio for macOS and Windows that runs TTS, voice cloning, song generation and MIDI scoring locally, with no cloud API or per-character fees." },
+{ n: "Sitey AI", u: "https://app.sitey.pk/", b: ["f"], d: "Urdu text to speech and WhatsApp voice notes in natural Urdu voices, on the web and in a free Android app." },
 { n: "Ito", u: "https://github.com/lokutor-ai/ito", b: ["os"], d: "Streaming speech synthesis whose neural model runs on an ESP32-S3 microcontroller with no cloud; code is GPLv3 and the voice weights are non-commercial." }
 ]},
 { id: "dev", name: "Development — Tools & SDKs", tools: [
