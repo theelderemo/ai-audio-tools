@@ -59,7 +59,8 @@ export const CATS = [
 { n: "Tunee", u: "https://tunee.ai/", b: ["fm"], d: "AI music and lyric generation platform with access to multiple underlying generative models for varied output styles." },
 { n: "Tunely", u: "https://tunelyai.com", b: ["fm"], d: "Text-to-song generator that turns a one-line description or your own lyrics into a full song with vocals and synced lyrics, plus remix tools to add vocals to your own beat or re-sing a song in another language." },
 { n: "SongUp AI", u: "https://www.songupai.com", b: ["fm","api"], d: "Web app that writes and sings full songs with vocals in 76 languages from a prompt, your own lyrics or a hummed melody, plus free browser tools for mastering, auto-tune and key/BPM detection." },
-{ n: "Aimusicgen", u: "https://aimusicgen.app", b: ["fm"], d: "Browser-based song generator that turns a text description or your own lyrics into a full track with vocals or an instrumental, plus a lyrics generator and an AI song cover tool." }
+{ n: "Aimusicgen", u: "https://aimusicgen.app", b: ["fm"], d: "Browser-based song generator that turns a text description or your own lyrics into a full track with vocals or an instrumental, plus a lyrics generator and an AI song cover tool." },
+{ n: "BeatMusic", u: "https://beatmusic.ai", b: ["fm"], d: "AI song maker that turns a short text idea or your own lyrics into a full song with vocals." }
 ]},
 { id: "lyrics", name: "Lyric Writing & Songwriting", tools: [
 { n: "VRS/A", u: "https://vrsa.app", b: ["fm"], d: "AI-powered lyric writing and music production workstation with multi-model Ghostwriter, Suno integration via browser extension, audio analysis, album art generation, and VRSA Studio." },
@@ -91,6 +92,7 @@ export const CATS = [
 { n: "Saturalabs", u: "https://www.saturalabs.com/", b: ["p"], d: "Uses text prompts to separate a voice, instrument, or sound effect in audio or video, producing a target track and the remaining mix." }
 ]},
 { id: "mastering", name: "Mastering, Mixing & Production Analysis", tools: [
+{ n: "Echoteka", u: "https://echoteka.ai", b: ["fm"], d: "Online mastering for AI-generated and home-recorded tracks that removes generator artifacts, hits a streaming loudness target and gives one free master a day." },
 { n: "Prompt Maschine", u: "https://promptmaschine.com/mastering.html", b: ["fm"], d: "Master a finished track on iPhone or iPad with five editable processors, then compare the original and master at matched loudness." },
 { n: "SoundBoost AI", u: "https://soundboostai.com/", b: ["fm"], d: "AI music mastering platform with goal-based controls — specify targets like loudness, warmth, or punch and the engine applies processing automatically." }
 ]},
