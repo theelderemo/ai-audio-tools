@@ -135,6 +135,7 @@
 - [MuzLab](https://muzlab.co/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Remove vocals from songs and split drums, bass and other instruments out of music.
 - [Fadr](https://fadr.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Remove stems, convert to MIDI, and create high-quality remixes and mashups using AI tools.
 - [Saturalabs](https://www.saturalabs.com/) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Uses text prompts to separate a voice, instrument, or sound effect in audio or video, producing a target track and the remaining mix.
+- [dojotool Vocal Remover](https://dojotool.com/audio/vocal-remover) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) - Splits a song into an instrumental and an acapella in the browser with the UVR-MDX-NET Voc_FT model, so the file is never uploaded and no account is needed.
 
 [↑ Back to top](#quick-navigation)
 
