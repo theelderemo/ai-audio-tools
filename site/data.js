@@ -111,7 +111,8 @@ export const CATS = [
 { n: "cyanite", u: "https://cyanite.ai/", b: ["fm","api"], d: "AI for Music tagging and similarity search." },
 { n: "Musixmatch", u: "https://www.musixmatch.com/", b: ["fm","api"], d: "Algorithms and tools for music discovery, recommendation, and search based on lyrics." },
 { n: "hoopr", u: "https://www.hoopr.ai", b: ["p"], d: "Find the best music, tell better stories, grow your audience." },
-{ n: "Pex", u: "https://www.pex.com", b: ["ent","api"], d: "Music identification and copyright compliance. Audio fingerprinting, cover song identification in large scale." }
+{ n: "Pex", u: "https://www.pex.com", b: ["ent","api"], d: "Music identification and copyright compliance. Audio fingerprinting, cover song identification in large scale." },
+{ n: "DescribeMusic Music Analyzer", u: "https://describemusic.net/analyze/", b: ["fm"], d: "Upload a track to get a written description of its genre, mood, instruments, BPM and key, plus metadata tags." }
 ]},
 { id: "health", name: "Health & Wellbeing", tools: [
 { n: "Endel", u: "https://endel.io", b: ["fm"], d: "Personalized soundscapes to help you focus, relax, and sleep." },
