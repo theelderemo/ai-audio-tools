@@ -7,9 +7,9 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Last Commit](https://img.shields.io/github/last-commit/theelderemo/ai-audio-tools?style=flat&color=blue)](https://github.com/theelderemo/ai-audio-tools/commits/main)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/theelderemo/ai-audio-tools/pulls)
-![Tools](https://img.shields.io/badge/tools%20listed-151-blueviolet?style=flat)
+![Tools](https://img.shields.io/badge/tools%20listed-171-blueviolet?style=flat)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=The+go-to+list+for+AI+audio+tools.;151+tools+across+15+categories.;Open+to+contributions.)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=The+go-to+list+for+AI+audio+tools.;171+tools+across+15+categories.;Open+to+contributions.)](https://github.com/DenverCoder1/readme-typing-svg)
 
 **[Browse the interactive index ↗](https://theelderemo.github.io/ai-audio-tools/)**
 
@@ -78,6 +78,7 @@
 - [NeuralDSP](https://neuraldsp.com) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![vst](https://img.shields.io/badge/VST-1a3d3d?style=flat-square) - Empowers music players by democratizing the access to world-class sound, through an intuitive software/hardware ecosystem.
 - [Neutone](https://neutone.space/) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) ![vst](https://img.shields.io/badge/VST-1a3d3d?style=flat-square) - AI audio plugin & community bridging the gap between AI research and creativity.
 - [Udio](https://www.udio.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI music generator with full song creation from text prompts, integrated lyric editor, and granular line-by-line vocal control.
+- [MakeASong](https://makeasong.io) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Web app that writes and produces a complete original song, vocals included, from a short text prompt, with downloadable results.
 - [Mureka](https://www.mureka.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI music generation with style-reference input, vocal timbre selection, and voice cloning for demos and song prototyping.
 - [Soundverse](https://soundverse.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Full-suite AI music studio with text-to-song, beat generation, stem separation, and SAAR — a voice-controlled music production assistant.
 - [ACE Studio](https://acestudio.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - All-in-one AI music studio with expressive AI vocals, natural-sounding AI instruments, and a DAW bridge for Logic, Ableton, and FL Studio.
@@ -91,6 +92,7 @@
 - [Tunely](https://tunelyai.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Text-to-song generator that turns a one-line description or your own lyrics into a full song with vocals and synced lyrics, plus remix tools to add vocals to your own beat or re-sing a song in another language.
 - [SongUp AI](https://www.songupai.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Web app that writes and sings full songs with vocals in 76 languages from a prompt, your own lyrics or a hummed melody, plus free browser tools for mastering, auto-tune and key/BPM detection.
 - [Aimusicgen](https://aimusicgen.app) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Browser-based song generator that turns a text description or your own lyrics into a full track with vocals or an instrumental, plus a lyrics generator and an AI song cover tool.
+- [BeatMusic](https://beatmusic.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI song maker that turns a short text idea or your own lyrics into a full song with vocals.
 
 [↑ Back to top](#quick-navigation)
 
@@ -100,6 +102,7 @@
 
 - [VRS/A](https://vrsa.app) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI-powered lyric writing and music production workstation with multi-model Ghostwriter, Suno integration via browser extension, audio analysis, album art generation, and VRSA Studio.
 - [Lyric Studio](https://www.lyricstudio.co/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Mobile-first AI songwriting ecosystem with a lyric editor, AI-generated verse/chorus drafts, rhyme suggestions, and song organization tools.
+- [LyricsGift](https://lyricsgift.com) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Web service that writes a personalised AI-generated song from a short story about someone, with every lyric shown for approval before the music is made; sold per song, with free samples to listen to first.
 
 [↑ Back to top](#quick-navigation)
 
@@ -120,6 +123,7 @@
 - [Audionamix](https://audionamix.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - Audio separation solutions for the entertainment industry.
 - [vocali.se](https://vocali.se/en) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Separate vocals and music from any song, in seconds.
 - [lalal.ai](https://www.lalal.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - High-quality stem splitting based on the world's #1 AI-powered technology.
+- [MusiCraft AI](https://www.musicraft.ai/features/stem-splitter) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Browser stem splitter with dozens of separation modes for vocals, drums, bass, choir parts and single instruments.
 - [VocalRemover](https://vocalremover.org/) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) - Separate voice from music out of a song free with powerful AI algorithms.
 - [PhonicMind](https://phonicmind.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Separate vocals, drums, bass and other instruments out of your songs with HiFi AI.
 - [EasySplitter](https://easysplitter.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI-Based Vocal Remover Online for DJ Singers.
@@ -135,6 +139,8 @@
 
 ## Mastering, Mixing & Production Analysis
 
+- [Echoteka](https://echoteka.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Online mastering for AI-generated and home-recorded tracks that removes generator artifacts, hits a streaming loudness target and gives one free master a day.
+- [Prompt Maschine](https://promptmaschine.com/mastering.html) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Master a finished track on iPhone or iPad with five editable processors, then compare the original and master at matched loudness.
 - [SoundBoost AI](https://soundboostai.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI music mastering platform with goal-based controls — specify targets like loudness, warmth, or punch and the engine applies processing automatically.
 
 [↑ Back to top](#quick-navigation)
@@ -162,6 +168,7 @@
 - [Musixmatch](https://www.musixmatch.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Algorithms and tools for music discovery, recommendation, and search based on lyrics.
 - [hoopr](https://www.hoopr.ai) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Find the best music, tell better stories, grow your audience.
 - [Pex](https://www.pex.com) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Music identification and copyright compliance. Audio fingerprinting, cover song identification in large scale.
+- [DescribeMusic Music Analyzer](https://describemusic.net/analyze/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Upload a track to get a written description of its genre, mood, instruments, BPM and key, plus metadata tags.
 
 [↑ Back to top](#quick-navigation)
 
@@ -230,6 +237,8 @@
 - [echosonic](https://www.echosonic.ca/) - Revolutionizing microphone by bringing Machine Learning capabilities into it.
 - [Insoundz](https://insoundz.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Generative AI Audio Enhancement.
 - [Xound](https://xound.io/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI-powered audio enhancements in just one click. Grammarly for audio.
+- [EraseNoise](https://erasenoise.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Browser tool that cleans noisy speech and lets you hear a short before-and-after preview before exporting the full file.
+- [Diffio AI](https://diffio.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Restores recorded speech in a web app or over an API, taking out background noise, room echo, hum and tape hiss while returning only the voice.
 
 [↑ Back to top](#quick-navigation)
 
@@ -254,10 +263,12 @@
 - [BoldVoice](https://www.boldvoice.com/) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Speak English clearly and confidently.
 - [Gladia](https://www.gladia.io) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Power your product with cutting-edge AI transcription, translation and audio intelligence using a single API.
 - [Podsqueeze](https://podsqueeze.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Re-purpose your audio or video podcast into transcript, show notes, blog post, video clips and other assets to publish and promote your show.
+- [Arcmira](https://arcmira.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Search indexed YouTube and podcast transcripts for a quote, then jump to the timestamp to hear the speaker in context.
 - [TidyTools Audio Transcription](https://apify.com/tidytools/audio-transcriber) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Hosted Whisper large-v3-turbo transcription of audio and video URLs or podcast RSS feeds into timestamped text and SRT or VTT subtitles in 90+ languages, billed per audio minute.
 - [akou](https://github.com/GeiserX/akou) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-4a2800?style=flat-square) - Records calls and meetings on an Apple silicon Mac and transcribes them on the machine with speaker labels, and also runs as a self-hosted transcription server.
 - [Yap Audio to Text](https://yapapp.cc/audio-to-text) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) - Transcribes audio and video files to text or SRT and VTT subtitles right in the browser, so the files are never uploaded.
 - [GetYouTubeTranscript](https://getyoutubetranscript.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Turns the captions of a YouTube video into a timestamped transcript with TXT, SRT or VTT export, translation and AI summaries.
+- [VoiceVibe](https://voicevibe.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Voice assistant for Windows, macOS and Linux (X11) that types what you say into any app, reads text aloud and passes spoken requests to AI chats or agents.
 
 [↑ Back to top](#quick-navigation)
 
@@ -267,7 +278,6 @@
 - [kroop AI](https://www.kroop.ai) - Harness synthetic media generation and detection with endless possibilities.
 - [dubverse](https://dubverse.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Make your content multilingual at a click of a button and reach more people.
 - [Resemble.ai](https://www.resemble.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Generate AI Voices that sound real.
-- [Replica](https://replicastudios.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI voice actors for games, film & the metaverse.
 - [Respeecher](https://www.respeecher.com) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Voice Cloning for Content Creators.
 - [AssemblyAI](https://www.assemblyai.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Transcribe and understand audio with a single AI-powered API.
 - [WellSaid](https://wellsaidlabs.com/) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Text-to-speech technology that creates life-like synthetic voices, from the voices of real people.
@@ -279,6 +289,7 @@
 - [Wondercraft](https://www.wondercraft.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Wondercraft enables users to generate podcasts using Text-to-Speech technology.
 - [Revocalize.ai](https://www.revocalize.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Generate studio-quality AI Voices and train AI voice models from the web dashboard or the VST plugin.
 - [yovoice](https://github.com/leemysw/yovoice) ![free](https://img.shields.io/badge/free-1a4731?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-4a2800?style=flat-square) - Desktop studio for macOS and Windows that runs TTS, voice cloning, song generation and MIDI scoring locally, with no cloud API or per-character fees.
+- [Ito](https://github.com/lokutor-ai/ito) ![open-source](https://img.shields.io/badge/open--source-4a2800?style=flat-square) - Streaming speech synthesis whose neural model runs on an ESP32-S3 microcontroller with no cloud; code is GPLv3 and the voice weights are non-commercial.
 
 [↑ Back to top](#quick-navigation)
 
@@ -287,6 +298,7 @@
 
 - [Quilio](https://www.quilio.dev/) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - We maintain tools to help developers build real-time audio AI applications with ease.
 - [PlaceCall](https://voygr.tech/placecall/) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Voice agent that an AI assistant sends to phone US businesses through phone menus and hold, returning the call outcome, transcript and recording through a REST API or MCP server.
+- [Lokutor](https://lokutor.com) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Own speech models for text-to-speech and speech recognition, with an API and voice agents.
 
 ---
 
@@ -329,8 +341,8 @@ If you own or maintain one of these and the issue has been fixed, open a PR that
 - **Music AI** `https://musicai.audio/` _(Source Separation)_ - Site no longer reachable.
 - **claerity.ai** `https://www.claerity.ai/` _(Enhancement & Manipulation)_ - Site no longer reachable.
 - **morpheme.ai** `https://www.morpheme.ai` _(Speech — Synthesis (TTS))_ - Site returns 404.
-- **sona** `https://sona.care/` (Health & Wellbeing) - Site no longer reachable.
-- **Replica** `https://replicastudios.com` (Speech — Synthesis (TTS)) - Site no longer reachable.
-- **Utopia Music** `https://utopiamusic.com` (Analysis & Recommendation) - Site no longer reachable.
+- **sona** `https://sona.care/` _(Health & Wellbeing)_ - Site no longer reachable.
+- **Replica** `https://replicastudios.com` _(Speech — Synthesis (TTS))_ - Site no longer reachable.
+- **Utopia Music** `https://utopiamusic.com` _(Analysis & Recommendation)_ - Site no longer reachable.
 
 [↑ Back to top](#quick-navigation)
