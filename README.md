@@ -93,6 +93,7 @@
 - [SongUp AI](https://www.songupai.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Web app that writes and sings full songs with vocals in 76 languages from a prompt, your own lyrics or a hummed melody, plus free browser tools for mastering, auto-tune and key/BPM detection.
 - [Aimusicgen](https://aimusicgen.app) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Browser-based song generator that turns a text description or your own lyrics into a full track with vocals or an instrumental, plus a lyrics generator and an AI song cover tool.
 - [BeatMusic](https://beatmusic.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI song maker that turns a short text idea or your own lyrics into a full song with vocals.
+- [Songifted](https://songifted.com/) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Uses personal memories and a recipient’s name to write lyrics for review and sing a gift song, with an eligible first-time preview and paid full recordings.
 
 [↑ Back to top](#quick-navigation)
 
